@@ -1,0 +1,79 @@
+{
+    "curAvatarEntityId": 16777961,
+    "avatarEnterInfo": [
+        {
+            "avatarGuid": {
+                "low": 1,
+                "high": 624263971,
+                "unsigned": true
+            },
+            "avatarEntityId": 16777959,
+            "avatarAbilityInfo": {},
+            "weaponGuid": {
+                "low": 79,
+                "high": 624263971,
+                "unsigned": true
+            },
+            "weaponEntityId": 100664040,
+            "weaponAbilityInfo": {}
+        },
+        {
+            "avatarGuid": {
+                "low": 76,
+                "high": 624263971,
+                "unsigned": true
+            },
+            "avatarEntityId": 16777961,
+            "avatarAbilityInfo": {},
+            "weaponGuid": {
+                "low": 77,
+                "high": 624263971,
+                "unsigned": true
+            },
+            "weaponEntityId": 100664042,
+            "weaponAbilityInfo": {}
+        },
+        {
+            "avatarGuid": {
+                "low": 181,
+                "high": 624263971,
+                "unsigned": true
+            },
+            "avatarEntityId": 16777963,
+            "avatarAbilityInfo": {},
+            "weaponGuid": {
+                "low": 182,
+                "high": 624263971,
+                "unsigned": true
+            },
+            "weaponEntityId": 100664044,
+            "weaponAbilityInfo": {}
+        },
+        {
+            "avatarGuid": {
+                "low": 394,
+                "high": 624263971,
+                "unsigned": true
+            },
+            "avatarEntityId": 16777965,
+            "avatarAbilityInfo": {},
+            "weaponGuid": {
+                "low": 395,
+                "high": 624263971,
+                "unsigned": true
+            },
+            "weaponEntityId": 100664046,
+            "weaponAbilityInfo": {}
+        }
+    ],
+    "teamEnterInfo": {
+        "teamEntityId": 150995686,
+        "teamAbilityInfo": {}
+    },
+    "mpLevelEntityInfo": {
+        "entityId": 184550127,
+        "authorityPeerId": 1,
+        "abilityInfo": {}
+    },
+    "enterSceneToken": 3495
+}

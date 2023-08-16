@@ -1,0 +1,219 @@
+{
+    "entityList": [
+        {
+            "entityType": 1,
+            "entityId": 16777961,
+            "motionInfo": {
+                "pos": {
+                    "X": 2213.626220703125,
+                    "Y": 230.67051696777344,
+                    "Z": -870.0728149414062
+                },
+                "rot": {
+                    "Y": 213.61370849609375
+                },
+                "speed": {}
+            },
+            "propList": [
+                {
+                    "type": 4001,
+                    "propValue": {
+                        "type": 4001,
+                        "ival": {
+                            "low": 4,
+                            "high": 0,
+                            "unsigned": false
+                        },
+                        "val": {
+                            "low": 4,
+                            "high": 0,
+                            "unsigned": false
+                        }
+                    }
+                }
+            ],
+            "fightPropList": [
+                {
+                    "propType": 1,
+                    "propValue": 989.9862060546875
+                },
+                {
+                    "propType": 4,
+                    "propValue": 46.580604553222656
+                },
+                {
+                    "propType": 5,
+                    "propValue": 8
+                },
+                {
+                    "propType": 6
+                },
+                {
+                    "propType": 7,
+                    "propValue": 62.84678649902344
+                },
+                {
+                    "propType": 20,
+                    "propValue": 0.05000000074505806
+                },
+                {
+                    "propType": 21
+                },
+                {
+                    "propType": 22,
+                    "propValue": 0.5
+                },
+                {
+                    "propType": 23,
+                    "propValue": 1
+                },
+                {
+                    "propType": 26
+                },
+                {
+                    "propType": 27
+                },
+                {
+                    "propType": 28
+                },
+                {
+                    "propType": 29
+                },
+                {
+                    "propType": 30
+                },
+                {
+                    "propType": 40
+                },
+                {
+                    "propType": 41
+                },
+                {
+                    "propType": 42
+                },
+                {
+                    "propType": 43
+                },
+                {
+                    "propType": 44
+                },
+                {
+                    "propType": 45
+                },
+                {
+                    "propType": 46
+                },
+                {
+                    "propType": 50
+                },
+                {
+                    "propType": 51
+                },
+                {
+                    "propType": 52
+                },
+                {
+                    "propType": 53
+                },
+                {
+                    "propType": 54
+                },
+                {
+                    "propType": 55
+                },
+                {
+                    "propType": 56
+                },
+                {
+                    "propType": 70,
+                    "propValue": 40
+                },
+                {
+                    "propType": 2000,
+                    "propValue": 989.9862060546875
+                },
+                {
+                    "propType": 2001,
+                    "propValue": 54.580604553222656
+                },
+                {
+                    "propType": 2002,
+                    "propValue": 62.84678649902344
+                },
+                {
+                    "propType": 2003
+                },
+                {
+                    "propType": 1010,
+                    "propValue": 950.3569946289062
+                }
+            ],
+            "lifeState": 1,
+            "animatorParaList": [
+                {}
+            ],
+            "avatar": {
+                "uid": 624263971,
+                "avatarId": 10000021,
+                "guid": {
+                    "low": 76,
+                    "high": 624263971,
+                    "unsigned": true
+                },
+                "peerId": 1,
+                "equipIdList": [
+                    60120,
+                    15101
+                ],
+                "skillDepotId": 2101,
+                "weapon": {
+                    "entityId": 100664042,
+                    "gadgetId": 50015101,
+                    "itemId": 15101,
+                    "guid": {
+                        "low": 77,
+                        "high": 624263971,
+                        "unsigned": true
+                    },
+                    "level": 1,
+                    "abilityInfo": {}
+                },
+                "reliquaryList": [
+                    {
+                        "itemId": 60120,
+                        "guid": {
+                            "low": 101,
+                            "high": 624263971,
+                            "unsigned": true
+                        },
+                        "level": 1
+                    }
+                ],
+                "inherentProudSkillList": [
+                    212301
+                ],
+                "skillLevelMap": {
+                    "10017": 1,
+                    "10032": 1,
+                    "10041": 1
+                },
+                "teamResonanceList": [
+                    10801
+                ],
+                "wearingFlycloakId": 140001,
+                "bornTime": 1617061880
+            },
+            "entityClientData": {},
+            "entityAuthorityInfo": {
+                "abilityInfo": {},
+                "rendererChangedInfo": {},
+                "aiInfo": {
+                    "isAiOpen": true,
+                    "bornPos": {}
+                },
+                "bornPos": {}
+            }
+        }
+    ],
+    "appearType": 12
+}

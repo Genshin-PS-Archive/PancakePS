@@ -1,0 +1,113 @@
+{
+    "entityId": 33554959,
+    "invokes": [
+        {
+            "head": {
+                "instancedAbilityId": 1,
+                "instancedModifierId": 1
+            },
+            "argumentType": 1,
+            "entityId": 33554959,
+            "forwardType": 2
+        },
+        {
+            "head": {},
+            "argumentType": 7,
+            "abilityData": {
+                "type": "Buffer",
+                "data": [
+                    10,
+                    6,
+                    16,
+                    178,
+                    173,
+                    191,
+                    248,
+                    11,
+                    16,
+                    1,
+                    29,
+                    0,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            "entityId": 33554959,
+            "forwardType": 2
+        },
+        {
+            "head": {},
+            "argumentType": 7,
+            "abilityData": {
+                "type": "Buffer",
+                "data": [
+                    10,
+                    6,
+                    16,
+                    178,
+                    173,
+                    191,
+                    248,
+                    11,
+                    16,
+                    1,
+                    29,
+                    0,
+                    0,
+                    128,
+                    63
+                ]
+            },
+            "entityId": 33554959,
+            "forwardType": 2
+        },
+        {
+            "head": {
+                "instancedAbilityId": 4
+            },
+            "argumentType": 4,
+            "abilityData": {
+                "type": "Buffer",
+                "data": [
+                    10,
+                    6,
+                    16,
+                    224,
+                    223,
+                    169,
+                    243,
+                    12,
+                    16,
+                    1,
+                    29,
+                    140,
+                    71,
+                    61,
+                    61
+                ]
+            },
+            "entityId": 33554959,
+            "forwardType": 2
+        },
+        {
+            "head": {
+                "instancedAbilityId": 4,
+                "localId": 513
+            },
+            "argumentType": 58,
+            "abilityData": {
+                "type": "Buffer",
+                "data": [
+                    13,
+                    140,
+                    71,
+                    61,
+                    61
+                ]
+            },
+            "entityId": 33554959,
+            "forwardType": 7
+        }
+    ]
+}

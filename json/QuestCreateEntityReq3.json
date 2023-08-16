@@ -1,0 +1,22 @@
+{
+    "entity": {
+        "gadgetId": 70700003,
+        "level": 1,
+        "pos": {
+            "X": 1659.012939453125,
+            "Y": 258.41900634765625,
+            "Z": -1436.9010009765625
+        },
+        "rot": {
+            "Y": 18.084999084472656
+        },
+        "sceneId": 3,
+        "clientUniqueId": 7,
+        "gadget": {
+            "bornType": 1,
+            "chest": {}
+        }
+    },
+    "questId": 35904,
+    "parentQuestId": 359
+}

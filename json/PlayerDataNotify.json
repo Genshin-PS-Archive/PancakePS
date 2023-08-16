@@ -1,0 +1,319 @@
+{
+    "nickName": "nicneimgg",
+    "serverTime": {
+        "low": -623583886,
+        "high": 378,
+        "unsigned": true
+    },
+    "regionId": 49,
+    "propMap": {
+        "10004": {
+            "type": 10004,
+            "ival": {
+                "low": 1,
+                "high": 0,
+                "unsigned": false
+            },
+            "val": {
+                "low": 1,
+                "high": 0,
+                "unsigned": false
+            }
+        },
+        "10005": {
+            "type": 10005,
+            "ival": {
+                "low": 50,
+                "high": 0,
+                "unsigned": false
+            },
+            "val": {
+                "low": 50,
+                "high": 0,
+                "unsigned": false
+            }
+        },
+        "10006": {
+            "type": 10006,
+            "ival": {
+                "low": 1,
+                "high": 0,
+                "unsigned": false
+            },
+            "val": {
+                "low": 1,
+                "high": 0,
+                "unsigned": false
+            }
+        },
+        "10007": {
+            "type": 10007,
+            "ival": {
+                "low": 0,
+                "high": 0,
+                "unsigned": false
+            }
+        },
+        "10008": {
+            "type": 10008,
+            "ival": {
+                "low": 0,
+                "high": 0,
+                "unsigned": false
+            }
+        },
+        "10009": {
+            "type": 10009,
+            "ival": {
+                "low": 1,
+                "high": 0,
+                "unsigned": false
+            },
+            "val": {
+                "low": 1,
+                "high": 0,
+                "unsigned": false
+            }
+        },
+        "10010": {
+            "type": 10010,
+            "ival": {
+                "low": 10000,
+                "high": 0,
+                "unsigned": false
+            },
+            "val": {
+                "low": 10000,
+                "high": 0,
+                "unsigned": false
+            }
+        },
+        "10011": {
+            "type": 10011,
+            "ival": {
+                "low": 10000,
+                "high": 0,
+                "unsigned": false
+            },
+            "val": {
+                "low": 10000,
+                "high": 0,
+                "unsigned": false
+            }
+        },
+        "10012": {
+            "type": 10012,
+            "ival": {
+                "low": 0,
+                "high": 0,
+                "unsigned": false
+            }
+        },
+        "10013": {
+            "type": 10013,
+            "ival": {
+                "low": 5,
+                "high": 0,
+                "unsigned": false
+            },
+            "val": {
+                "low": 5,
+                "high": 0,
+                "unsigned": false
+            }
+        },
+        "10014": {
+            "type": 10014,
+            "ival": {
+                "low": 215,
+                "high": 0,
+                "unsigned": false
+            },
+            "val": {
+                "low": 215,
+                "high": 0,
+                "unsigned": false
+            }
+        },
+        "10015": {
+            "type": 10015,
+            "ival": {
+                "low": 88,
+                "high": 0,
+                "unsigned": false
+            },
+            "val": {
+                "low": 88,
+                "high": 0,
+                "unsigned": false
+            }
+        },
+        "10016": {
+            "type": 10016,
+            "ival": {
+                "low": 55082,
+                "high": 0,
+                "unsigned": false
+            },
+            "val": {
+                "low": 55082,
+                "high": 0,
+                "unsigned": false
+            }
+        },
+        "10017": {
+            "type": 10017,
+            "ival": {
+                "low": 2,
+                "high": 0,
+                "unsigned": false
+            },
+            "val": {
+                "low": 2,
+                "high": 0,
+                "unsigned": false
+            }
+        },
+        "10019": {
+            "type": 10019,
+            "ival": {
+                "low": 0,
+                "high": 0,
+                "unsigned": false
+            }
+        },
+        "10020": {
+            "type": 10020,
+            "ival": {
+                "low": 160,
+                "high": 0,
+                "unsigned": false
+            },
+            "val": {
+                "low": 160,
+                "high": 0,
+                "unsigned": false
+            }
+        },
+        "10022": {
+            "type": 10022,
+            "ival": {
+                "low": 0,
+                "high": 0,
+                "unsigned": false
+            }
+        },
+        "10023": {
+            "type": 10023,
+            "ival": {
+                "low": 0,
+                "high": 0,
+                "unsigned": false
+            }
+        },
+        "10025": {
+            "type": 10025,
+            "ival": {
+                "low": 0,
+                "high": 0,
+                "unsigned": false
+            }
+        },
+        "10026": {
+            "type": 10026,
+            "ival": {
+                "low": 0,
+                "high": 0,
+                "unsigned": false
+            }
+        },
+        "10027": {
+            "type": 10027,
+            "ival": {
+                "low": 0,
+                "high": 0,
+                "unsigned": false
+            }
+        },
+        "10035": {
+            "type": 10035,
+            "ival": {
+                "low": 0,
+                "high": 0,
+                "unsigned": false
+            }
+        },
+        "10036": {
+            "type": 10036,
+            "ival": {
+                "low": 0,
+                "high": 0,
+                "unsigned": false
+            }
+        },
+        "10037": {
+            "type": 10037,
+            "ival": {
+                "low": 0,
+                "high": 0,
+                "unsigned": false
+            }
+        },
+        "10038": {
+            "type": 10038,
+            "ival": {
+                "low": 0,
+                "high": 0,
+                "unsigned": false
+            }
+        },
+        "10039": {
+            "type": 10039,
+            "ival": {
+                "low": 0,
+                "high": 0,
+                "unsigned": false
+            }
+        },
+        "10040": {
+            "type": 10040,
+            "ival": {
+                "low": 0,
+                "high": 0,
+                "unsigned": false
+            }
+        },
+        "10041": {
+            "type": 10041,
+            "ival": {
+                "low": 0,
+                "high": 0,
+                "unsigned": false
+            }
+        },
+        "10042": {
+            "type": 10042,
+            "ival": {
+                "low": 0,
+                "high": 0,
+                "unsigned": false
+            }
+        },
+        "10043": {
+            "type": 10043,
+            "ival": {
+                "low": 0,
+                "high": 0,
+                "unsigned": false
+            }
+        },
+        "10044": {
+            "type": 10044,
+            "ival": {
+                "low": 0,
+                "high": 0,
+                "unsigned": false
+            }
+        }
+    }
+}

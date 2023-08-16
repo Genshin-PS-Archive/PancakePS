@@ -1,0 +1,87 @@
+{
+    "entityList": [
+        {
+            "entityType": 4,
+            "entityId": 67109617,
+            "motionInfo": {
+                "pos": {
+                    "X": 2137.9970703125,
+                    "Y": 207.23199462890625,
+                    "Z": -1174.43994140625
+                },
+                "rot": {
+                    "X": 0.01600000075995922,
+                    "Y": 335.22900390625,
+                    "Z": 0.23899999260902405
+                },
+                "speed": {}
+            },
+            "propList": [
+                {
+                    "type": 4001,
+                    "propValue": {
+                        "type": 4001,
+                        "ival": {
+                            "low": 1,
+                            "high": 0,
+                            "unsigned": false
+                        },
+                        "val": {
+                            "low": 1,
+                            "high": 0,
+                            "unsigned": false
+                        }
+                    }
+                }
+            ],
+            "fightPropList": [
+                {
+                    "propType": 23
+                },
+                {
+                    "propType": 2000
+                },
+                {
+                    "propType": 2001
+                },
+                {
+                    "propType": 2002
+                },
+                {
+                    "propType": 2003
+                },
+                {
+                    "propType": 1010
+                }
+            ],
+            "animatorParaList": [
+                {}
+            ],
+            "gadget": {
+                "gadgetId": 70700003,
+                "bornType": 1,
+                "authorityPeerId": 1,
+                "isEnableInteract": true
+            },
+            "entityClientData": {},
+            "entityAuthorityInfo": {
+                "abilityInfo": {},
+                "rendererChangedInfo": {},
+                "aiInfo": {
+                    "isAiOpen": true,
+                    "bornPos": {
+                        "X": 2137.9970703125,
+                        "Y": 207.23199462890625,
+                        "Z": -1174.43994140625
+                    }
+                },
+                "bornPos": {
+                    "X": 2137.9970703125,
+                    "Y": 207.23199462890625,
+                    "Z": -1174.43994140625
+                }
+            }
+        }
+    ],
+    "appearType": 12
+}

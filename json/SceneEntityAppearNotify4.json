@@ -1,0 +1,85 @@
+{
+    "entityList": [
+        {
+            "entityType": 4,
+            "entityId": 67109618,
+            "motionInfo": {
+                "pos": {
+                    "X": 2163.6640625,
+                    "Y": 235.37100219726562,
+                    "Z": -1642.4210205078125
+                },
+                "rot": {
+                    "Y": 275.8919982910156
+                },
+                "speed": {}
+            },
+            "propList": [
+                {
+                    "type": 4001,
+                    "propValue": {
+                        "type": 4001,
+                        "ival": {
+                            "low": 1,
+                            "high": 0,
+                            "unsigned": false
+                        },
+                        "val": {
+                            "low": 1,
+                            "high": 0,
+                            "unsigned": false
+                        }
+                    }
+                }
+            ],
+            "fightPropList": [
+                {
+                    "propType": 23
+                },
+                {
+                    "propType": 2000
+                },
+                {
+                    "propType": 2001
+                },
+                {
+                    "propType": 2002
+                },
+                {
+                    "propType": 2003
+                },
+                {
+                    "propType": 1010
+                }
+            ],
+            "animatorParaList": [
+                {}
+            ],
+            "gadget": {
+                "gadgetId": 70700003,
+                "bornType": 1,
+                "authorityPeerId": 1,
+                "isEnableInteract": true
+            },
+            "entityClientData": {},
+            "entityAuthorityInfo": {
+                "abilityInfo": {},
+                "rendererChangedInfo": {},
+                "aiInfo": {
+                    "isAiOpen": true,
+                    "bornPos": {
+                        "X": 2163.6640625,
+                        "Y": 235.37100219726562,
+                        "Z": -1642.4210205078125
+                    }
+                },
+                "bornPos": {
+                    "X": 2163.6640625,
+                    "Y": 235.37100219726562,
+                    "Z": -1642.4210205078125
+                }
+            }
+        }
+    ],
+    "appearType": 12
+}

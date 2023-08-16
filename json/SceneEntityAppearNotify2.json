@@ -1,0 +1,96 @@
+{
+    "entityList": [
+        {
+            "entityType": 4,
+            "entityId": 67109616,
+            "motionInfo": {
+                "pos": {
+                    "X": 2304,
+                    "Y": 263.5,
+                    "Z": -756
+                },
+                "rot": {},
+                "speed": {}
+            },
+            "propList": [
+                {
+                    "type": 4001,
+                    "propValue": {
+                        "type": 4001,
+                        "ival": {
+                            "low": 1,
+                            "high": 0,
+                            "unsigned": false
+                        },
+                        "val": {
+                            "low": 1,
+                            "high": 0,
+                            "unsigned": false
+                        }
+                    }
+                }
+            ],
+            "fightPropList": [
+                {
+                    "propType": 1,
+                    "propValue": 100
+                },
+                {
+                    "propType": 4
+                },
+                {
+                    "propType": 7
+                },
+                {
+                    "propType": 23
+                },
+                {
+                    "propType": 2000,
+                    "propValue": 100
+                },
+                {
+                    "propType": 2001
+                },
+                {
+                    "propType": 2002
+                },
+                {
+                    "propType": 2003
+                },
+                {
+                    "propType": 1010,
+                    "propValue": 100
+                }
+            ],
+            "lifeState": 1,
+            "animatorParaList": [
+                {}
+            ],
+            "gadget": {
+                "gadgetId": 70700004,
+                "bornType": 1,
+                "authorityPeerId": 1,
+                "isEnableInteract": true
+            },
+            "entityClientData": {},
+            "entityAuthorityInfo": {
+                "abilityInfo": {},
+                "rendererChangedInfo": {},
+                "aiInfo": {
+                    "isAiOpen": true,
+                    "bornPos": {
+                        "X": 2304,
+                        "Y": 263.5,
+                        "Z": -756
+                    }
+                },
+                "bornPos": {
+                    "X": 2304,
+                    "Y": 263.5,
+                    "Z": -756
+                }
+            }
+        }
+    ],
+    "appearType": 12
+}

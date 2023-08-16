@@ -1,0 +1,64 @@
+{
+    "detailData": {
+        "uid": 620336771,
+        "nickname": "SHAAARK",
+        "level": 55,
+        "signature": "bro",
+        "birthday": {
+            "month": 2,
+            "day": 8
+        },
+        "worldLevel": 8,
+        "onlineState": 1,
+        "isMpModeAvailable": true,
+        "nameCardId": 210070,
+        "finishAchievementNum": 301,
+        "towerFloorIndex": 11,
+        "towerLevelIndex": 3,
+        "showAvatarInfoList": [
+            {
+                "avatarId": 10000033,
+                "level": 85
+            },
+            {
+                "avatarId": 10000032,
+                "level": 83
+            },
+            {
+                "avatarId": 10000016,
+                "level": 80
+            },
+            {
+                "avatarId": 10000030,
+                "level": 60
+            },
+            {
+                "avatarId": 10000041,
+                "level": 80
+            },
+            {
+                "avatarId": 10000042,
+                "level": 70
+            },
+            {
+                "avatarId": 10000051,
+                "level": 90
+            },
+            {
+                "avatarId": 10000006,
+                "level": 71
+            }
+        ],
+        "showNameCardIdList": [
+            210016,
+            210015,
+            210046,
+            210067,
+            210056,
+            210051,
+            210048,
+            210050,
+            210005
+        ]
+    }
+}

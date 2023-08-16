@@ -1,0 +1,21 @@
+{
+    "entityId": 67108866,
+    "invokes": [
+        {
+            "head": {
+                "instancedAbilityId": 1,
+                "instancedModifierId": 1
+            },
+            "argumentType": 1,
+            "abilityData": {
+                "type": "Buffer",
+                "data": [
+                    72,
+                    1
+                ]
+            },
+            "entityId": 67108866,
+            "forwardType": 2
+        }
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "offeringDataList": [
+        {
+            "offeringId": 1,
+            "level": 1
+        },
+        {
+            "offeringId": 2
+        }
+    ]
+}

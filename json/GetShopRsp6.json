@@ -1,0 +1,48 @@
+{
+    "shop": {
+        "shopType": 903,
+        "mcoinProductList": [
+            {
+                "productId": "ys_glb_primogem1ststall_tier1",
+                "priceTier": "Tier_1",
+                "mcoinBase": 60,
+                "mcoinFirst": 60
+            },
+            {
+                "productId": "ys_glb_primogem2ndstall_tier5",
+                "priceTier": "Tier_5",
+                "mcoinBase": 300,
+                "mcoinNonFirst": 30,
+                "mcoinFirst": 300
+            },
+            {
+                "productId": "ys_glb_primogem3rdstall_tier15",
+                "priceTier": "Tier_15",
+                "mcoinBase": 980,
+                "mcoinNonFirst": 110,
+                "mcoinFirst": 980
+            },
+            {
+                "productId": "ys_glb_primogem4thstall_tier30",
+                "priceTier": "Tier_30",
+                "mcoinBase": 1980,
+                "mcoinNonFirst": 260,
+                "mcoinFirst": 1980
+            },
+            {
+                "productId": "ys_glb_primogem5thstall_tier50",
+                "priceTier": "Tier_50",
+                "mcoinBase": 3280,
+                "mcoinNonFirst": 600,
+                "mcoinFirst": 3280
+            },
+            {
+                "productId": "ys_glb_primogem6thstall_tier60",
+                "priceTier": "Tier_60",
+                "mcoinBase": 6480,
+                "mcoinNonFirst": 1600,
+                "mcoinFirst": 6480
+            }
+        ]
+    }
+}

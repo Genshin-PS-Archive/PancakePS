@@ -1,0 +1,12 @@
+{
+    "playerTime": {
+        "low": 17198434,
+        "high": 0,
+        "unsigned": true
+    },
+    "serverTime": {
+        "low": -612580704,
+        "high": 378,
+        "unsigned": true
+    }
+}

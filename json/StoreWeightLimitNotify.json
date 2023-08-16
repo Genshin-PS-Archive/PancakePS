@@ -1,0 +1,8 @@
+{
+    "storeType": 1,
+    "weightLimit": 30000,
+    "materialCountLimit": 2000,
+    "weaponCountLimit": 2000,
+    "reliquaryCountLimit": 1000,
+    "furnitureCountLimit": 2000
+}

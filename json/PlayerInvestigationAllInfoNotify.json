@@ -1,0 +1,37 @@
+{
+    "investigationList": [
+        {
+            "id": 10001,
+            "totalProgress": 4,
+            "state": 1
+        }
+    ],
+    "investigationTargetList": [
+        {
+            "questId": 60002,
+            "investigationId": 10001,
+            "state": 2,
+            "progress": 3,
+            "totalProgress": 3
+        },
+        {
+            "questId": 60001,
+            "investigationId": 10001,
+            "state": 1,
+            "totalProgress": 1
+        },
+        {
+            "questId": 60003,
+            "investigationId": 10001,
+            "state": 1,
+            "progress": 3,
+            "totalProgress": 15
+        },
+        {
+            "questId": 60004,
+            "investigationId": 10001,
+            "state": 1,
+            "totalProgress": 1
+        }
+    ]
+}

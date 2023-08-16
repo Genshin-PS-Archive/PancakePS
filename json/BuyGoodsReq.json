@@ -1,0 +1,23 @@
+{
+    "shopType": 1001,
+    "goods": {
+        "goodsId": 102501,
+        "goodsItem": {
+            "itemId": 223,
+            "count": 1
+        },
+        "costItemList": [
+            {
+                "itemId": 222,
+                "count": 75
+            }
+        ],
+        "buyLimit": 5,
+        "beginTime": 1575176400,
+        "endTime": 2051240400,
+        "nextRefreshTime": 1627808400,
+        "minLevel": 4,
+        "maxLevel": 99
+    },
+    "buyCount": 1
+}

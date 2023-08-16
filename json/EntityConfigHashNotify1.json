@@ -1,0 +1,91 @@
+{
+    "abilityEntryList": [
+        {
+            "entityId": 16777959,
+            "hashValue": -137478151,
+            "jobId": 61
+        },
+        {
+            "entityId": 16777963,
+            "hashValue": -524260,
+            "jobId": 63
+        },
+        {
+            "entityId": 16777965,
+            "hashValue": 1047870673,
+            "jobId": 65
+        },
+        {
+            "entityId": 100664040,
+            "hashValue": -45612843,
+            "jobId": 67
+        },
+        {
+            "entityId": 100664044,
+            "hashValue": -45612843,
+            "jobId": 68
+        },
+        {
+            "entityId": 100664046,
+            "hashValue": -45612843,
+            "jobId": 69
+        },
+        {
+            "entityId": 16777961,
+            "hashValue": -2139349511,
+            "jobId": 70
+        },
+        {
+            "entityId": 67109312,
+            "hashValue": -1018429581,
+            "jobId": 72
+        },
+        {
+            "entityId": 67109301,
+            "hashValue": -1014707161,
+            "jobId": 73
+        },
+        {
+            "entityId": 33554875,
+            "hashValue": -2142513689,
+            "jobId": 75
+        },
+        {
+            "entityId": 67108867,
+            "hashValue": -1203230697,
+            "jobId": 77
+        },
+        {
+            "entityId": 67108865,
+            "hashValue": -1203230697,
+            "jobId": 78
+        }
+    ],
+    "combatEntryList": [
+        {
+            "entityId": 16777959,
+            "hashValue": -1026664723,
+            "jobId": 62
+        },
+        {
+            "entityId": 16777963,
+            "hashValue": -1128516010,
+            "jobId": 64
+        },
+        {
+            "entityId": 16777965,
+            "hashValue": -1107951484,
+            "jobId": 66
+        },
+        {
+            "entityId": 16777961,
+            "hashValue": -1107951481,
+            "jobId": 71
+        },
+        {
+            "entityId": 33554875,
+            "hashValue": -2086010690,
+            "jobId": 76
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "storeType": 1,
+    "itemList": [
+        {
+            "itemId": 13303,
+            "guid": {
+                "low": 397,
+                "high": 624263971,
+                "unsigned": true
+            },
+            "equip": {
+                "weapon": {
+                    "level": 1,
+                    "affixMap": {
+                        "113303": 0
+                    }
+                }
+            }
+        }
+    ]
+}

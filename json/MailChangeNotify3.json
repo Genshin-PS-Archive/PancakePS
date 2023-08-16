@@ -1,0 +1,24 @@
+{
+    "mailList": [
+        {
+            "mailId": 15,
+            "mailTextContent": {
+                "title": "Compensación por corrección de errores en la versión 2.0",
+                "content": "Querido/a viajero/a:\nLamentamos haber detectado estos errores en la versión 1.6:\n1. Cuando un personaje provocaba la reacción de Sobrecarga a sí mismo, no podía infligir daño a los enemigos.\n2. Un personaje podía recibir daño cuando activaba la reacción de Torbellino con múltiples elementos contra varios enemigos.\n3. Error con el piso 7 de la Espiral del Abismo por el que el efecto \"Los golpes con Daño CRIT generarán orbes y partículas elementales\" de las líneas ley anómalas no resultaba efectivo.\n4. Error con el personaje Viajero/a (Anemo) por el que, tras resonar con la Estatua de Los Siete varias veces, los efectos del nivel 4 de la constelación \"Brisa protectora\" y los del talento pasivo \"Viento de la resurrección\" no resultaban efectivos.\nActualmente, estos errores ya fueron reparados. A continuación puedes recoger tu compensación por la detección de dichos errores. ¡No olvides reclamarla a tiempo!",
+                "sender": "P·A·I·M·O·N"
+            },
+            "itemList": [
+                {
+                    "equipParam": {
+                        "itemId": 201,
+                        "itemNum": 300
+                    }
+                }
+            ],
+            "sendTime": 1626885692,
+            "expireTime": 1629477692,
+            "isRead": true,
+            "isAttachmentGot": true
+        }
+    ]
+}

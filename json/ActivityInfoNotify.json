@@ -1,0 +1,26 @@
+{
+    "activityInfo": {
+        "activityId": 5002,
+        "scheduleId": 5002017,
+        "beginTime": 1628636400,
+        "endTime": 1630439999,
+        "activityType": 4,
+        "isStarting": true,
+        "trialAvatarInfo": {
+            "rewardInfoList": [
+                {
+                    "trialAvatarIndexId": 36
+                },
+                {
+                    "trialAvatarIndexId": 31
+                },
+                {
+                    "trialAvatarIndexId": 25
+                },
+                {
+                    "trialAvatarIndexId": 37
+                }
+            ]
+        }
+    }
+}

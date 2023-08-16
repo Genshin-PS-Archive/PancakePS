@@ -1,0 +1,194 @@
+{
+    "typeDataList": [
+        {
+            "type": 1,
+            "codexIdList": [
+                10010002,
+                10010003,
+                10010005,
+                10010006,
+                10010007,
+                10010008,
+                10010009,
+                10010010
+            ],
+            "haveViewedList": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false
+            ]
+        },
+        {
+            "type": 2,
+            "codexIdList": [
+                30211101,
+                30211201,
+                30211301,
+                30212101,
+                30212301,
+                30212302,
+                30212305,
+                30213303,
+                30214101,
+                30214301,
+                30214304,
+                30215101,
+                30215302,
+                30215303,
+                30215304,
+                30215401
+            ],
+            "haveViewedList": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false
+            ]
+        },
+        {
+            "type": 3,
+            "codexIdList": [
+                20010501,
+                20010801,
+                20011001,
+                20011201,
+                21010201,
+                21010401,
+                21010701,
+                22010201,
+                28010102,
+                28010201,
+                28020301,
+                28020402
+            ],
+            "haveViewedList": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false
+            ]
+        },
+        {
+            "type": 4,
+            "codexIdList": [
+                40100001,
+                40101001,
+                40101002,
+                40101003,
+                40101004,
+                40101005,
+                40101008,
+                40101009,
+                40101010,
+                40101011,
+                40101012,
+                40110004,
+                40200007,
+                40210045,
+                40240001,
+                40240004,
+                40331001,
+                40331007
+            ],
+            "haveViewedList": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false
+            ]
+        },
+        {
+            "type": 5,
+            "codexIdList": [
+                50001004
+            ],
+            "haveViewedList": [
+                false
+            ]
+        },
+        {
+            "type": 6,
+            "codexIdList": [
+                60100001,
+                60100002,
+                60100003,
+                60100004,
+                60100006,
+                60100010,
+                60100012,
+                60100013,
+                60100015,
+                60200001,
+                60200002,
+                60200004,
+                60200005,
+                60200007,
+                60200008,
+                60200014,
+                60400003,
+                60400016,
+                60500007
+            ],
+            "haveViewedList": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false
+            ]
+        }
+    ]
+}

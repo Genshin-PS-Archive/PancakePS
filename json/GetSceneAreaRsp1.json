@@ -1,0 +1,12 @@
+{
+    "sceneId": 4,
+    "areaIdList": [
+        100
+    ],
+    "cityInfoList": [
+        {
+            "cityId": 100,
+            "level": 1
+        }
+    ]
+}

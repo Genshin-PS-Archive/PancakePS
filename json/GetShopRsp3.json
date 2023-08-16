@@ -1,0 +1,85 @@
+{
+    "shop": {
+        "shopType": 902,
+        "goodsList": [
+            {
+                "goodsId": 103009,
+                "goodsItem": {
+                    "itemId": 115032,
+                    "count": 1
+                },
+                "buyLimit": 1,
+                "beginTime": 1575176400,
+                "endTime": 2051240400,
+                "nextRefreshTime": 1627290000,
+                "minLevel": 1,
+                "maxLevel": 99,
+                "mcoin": 60
+            },
+            {
+                "goodsId": 103011,
+                "goodsItem": {
+                    "itemId": 115011,
+                    "count": 1
+                },
+                "buyLimit": 1,
+                "beginTime": 1575176400,
+                "endTime": 2051240400,
+                "nextRefreshTime": 1627290000,
+                "minLevel": 1,
+                "maxLevel": 99,
+                "mcoin": 980
+            },
+            {
+                "goodsId": 103010,
+                "goodsItem": {
+                    "itemId": 115010,
+                    "count": 1
+                },
+                "buyLimit": 1,
+                "beginTime": 1575176400,
+                "endTime": 2051240400,
+                "nextRefreshTime": 1627290000,
+                "minLevel": 1,
+                "maxLevel": 99,
+                "mcoin": 300
+            },
+            {
+                "goodsId": 103031,
+                "goodsItem": {
+                    "itemId": 115022,
+                    "count": 1
+                },
+                "buyLimit": 3,
+                "beginTime": 1626757200,
+                "endTime": 1628225999,
+                "minLevel": 1,
+                "maxLevel": 99,
+                "mcoin": 680
+            },
+            {
+                "goodsId": 103032,
+                "goodsItem": {
+                    "itemId": 115029,
+                    "count": 1
+                },
+                "buyLimit": 5,
+                "beginTime": 1626757200,
+                "endTime": 1628225999,
+                "minLevel": 1,
+                "maxLevel": 99,
+                "mcoin": 680
+            }
+        ],
+        "cardProductList": [
+            {
+                "productId": "ys_glb_blessofmoon_tier5",
+                "priceTier": "Tier_5",
+                "mcoinBase": 300,
+                "hcoinPerDay": 90,
+                "days": 30,
+                "cardProductType": 1
+            }
+        ]
+    }
+}

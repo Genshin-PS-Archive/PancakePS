@@ -1,0 +1,44 @@
+{
+    "infoList": [
+        {
+            "avatarGuid": {
+                "low": 1,
+                "high": 624263971,
+                "unsigned": true
+            },
+            "addTeamResonanceIdList": [
+                10801
+            ]
+        },
+        {
+            "avatarGuid": {
+                "low": 76,
+                "high": 624263971,
+                "unsigned": true
+            },
+            "addTeamResonanceIdList": [
+                10801
+            ]
+        },
+        {
+            "avatarGuid": {
+                "low": 181,
+                "high": 624263971,
+                "unsigned": true
+            },
+            "addTeamResonanceIdList": [
+                10801
+            ]
+        },
+        {
+            "avatarGuid": {
+                "low": 394,
+                "high": 624263971,
+                "unsigned": true
+            },
+            "addTeamResonanceIdList": [
+                10801
+            ]
+        }
+    ]
+}

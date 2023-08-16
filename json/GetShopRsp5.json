@@ -1,0 +1,30 @@
+{
+    "shop": {
+        "shopType": 900,
+        "goodsList": [
+            {
+                "goodsId": 106001,
+                "goodsItem": {
+                    "itemId": 340001,
+                    "count": 1
+                },
+                "buyLimit": 1,
+                "beginTime": 1575176400,
+                "endTime": 2051240400,
+                "minLevel": 1,
+                "maxLevel": 99,
+                "mcoin": 1680
+            }
+        ],
+        "cardProductList": [
+            {
+                "productId": "ys_glb_blessofmoon_tier5",
+                "priceTier": "Tier_5",
+                "mcoinBase": 300,
+                "hcoinPerDay": 90,
+                "days": 30,
+                "cardProductType": 1
+            }
+        ]
+    }
+}

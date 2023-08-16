@@ -1,0 +1,9 @@
+{
+    "sceneId": 3,
+    "isPaused": true,
+    "sceneTime": {
+        "low": 11800,
+        "high": 0,
+        "unsigned": true
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "propMap": {
+        "10016": {
+            "type": 10016,
+            "ival": {
+                "low": 55382,
+                "high": 0,
+                "unsigned": false
+            },
+            "val": {
+                "low": 55382,
+                "high": 0,
+                "unsigned": false
+            }
+        },
+        "10023": {
+            "type": 10023,
+            "ival": {
+                "low": 0,
+                "high": 0,
+                "unsigned": false
+            }
+        }
+    }
+}

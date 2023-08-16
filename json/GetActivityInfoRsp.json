@@ -1,0 +1,41 @@
+{
+    "activityInfoList": [
+        {
+            "activityId": 5039,
+            "scheduleId": 5039001,
+            "beginTime": 1626822000,
+            "endTime": 1630450800,
+            "activityType": 2005
+        },
+        {
+            "activityId": 5002,
+            "scheduleId": 5002016,
+            "beginTime": 1626822000,
+            "endTime": 1628636340,
+            "activityType": 4,
+            "trialAvatarInfo": {
+                "rewardInfoList": [
+                    {
+                        "trialAvatarIndexId": 35
+                    },
+                    {
+                        "trialAvatarIndexId": 23
+                    },
+                    {
+                        "trialAvatarIndexId": 28
+                    },
+                    {
+                        "trialAvatarIndexId": 32
+                    }
+                ]
+            }
+        },
+        {
+            "activityId": 5038,
+            "scheduleId": 5038001,
+            "beginTime": 1626822000,
+            "endTime": 1630450800,
+            "activityType": 8
+        }
+    ]
+}

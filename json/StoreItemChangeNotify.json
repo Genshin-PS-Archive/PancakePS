@@ -1,0 +1,16 @@
+{
+    "storeType": 1,
+    "itemList": [
+        {
+            "itemId": 223,
+            "guid": {
+                "low": 396,
+                "high": 624263971,
+                "unsigned": true
+            },
+            "material": {
+                "count": 1
+            }
+        }
+    ]
+}

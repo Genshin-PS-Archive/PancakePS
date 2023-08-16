@@ -1,0 +1,434 @@
+{
+    "monsterList": [
+        {
+            "id": 31,
+            "cityId": 1,
+            "level": 27,
+            "isAlive": true,
+            "nextRefreshTime": 118800,
+            "refreshInterval": 86400,
+            "pos": {
+                "X": -2324.133056640625,
+                "Y": 228.92999267578125,
+                "Z": -4306.93212890625
+            },
+            "isAreaLocked": true
+        },
+        {
+            "id": 30,
+            "cityId": 1,
+            "level": 27,
+            "isAlive": true,
+            "nextRefreshTime": 118800,
+            "refreshInterval": 86400,
+            "pos": {
+                "X": -2543.468994140625,
+                "Y": 255.74000549316406,
+                "Z": -4289.72314453125
+            },
+            "isAreaLocked": true
+        },
+        {
+            "id": 29,
+            "cityId": 1,
+            "level": 27,
+            "isAlive": true,
+            "nextRefreshTime": 43200,
+            "refreshInterval": 43200,
+            "pos": {
+                "X": -1862.9210205078125,
+                "Y": 207.10699462890625,
+                "Z": -4182.9990234375
+            },
+            "isAreaLocked": true
+        },
+        {
+            "id": 28,
+            "cityId": 1,
+            "level": 36,
+            "isAlive": true,
+            "nextRefreshTime": 300,
+            "refreshInterval": 300,
+            "pos": {
+                "X": -2125.472900390625,
+                "Y": 141.07000732421875,
+                "Z": -4465.02685546875
+            },
+            "maxBossChestNum": 100,
+            "resin": 40,
+            "isAreaLocked": true
+        },
+        {
+            "id": 27,
+            "cityId": 1,
+            "level": 36,
+            "isAlive": true,
+            "nextRefreshTime": 300,
+            "refreshInterval": 300,
+            "pos": {
+                "X": -3040.18994140625,
+                "Y": 200.10699462890625,
+                "Z": -3178.66796875
+            },
+            "maxBossChestNum": 100,
+            "resin": 40,
+            "isAreaLocked": true
+        },
+        {
+            "id": 26,
+            "cityId": 1,
+            "level": 36,
+            "isAlive": true,
+            "nextRefreshTime": 300,
+            "refreshInterval": 300,
+            "pos": {
+                "X": -3941.052001953125,
+                "Y": 261.4859924316406,
+                "Z": -2339.81591796875
+            },
+            "maxBossChestNum": 100,
+            "resin": 40,
+            "isAreaLocked": true
+        },
+        {
+            "id": 25,
+            "cityId": 1,
+            "lockState": 1
+        },
+        {
+            "id": 24,
+            "cityId": 1,
+            "level": 24,
+            "isAlive": true,
+            "nextRefreshTime": 118800,
+            "refreshInterval": 86400,
+            "pos": {
+                "X": 1157.43603515625,
+                "Y": 323.00799560546875,
+                "Z": 1446.2030029296875
+            },
+            "isAreaLocked": true
+        },
+        {
+            "id": 11,
+            "cityId": 1,
+            "level": 19,
+            "isAlive": true,
+            "nextRefreshTime": 118800,
+            "refreshInterval": 86400,
+            "pos": {
+                "X": 333.0539855957031,
+                "Y": 199.89999389648438,
+                "Z": -176.4720001220703
+            },
+            "isAreaLocked": true
+        },
+        {
+            "id": 10,
+            "cityId": 1,
+            "level": 20,
+            "isAlive": true,
+            "nextRefreshTime": 118800,
+            "refreshInterval": 86400,
+            "pos": {
+                "X": 470.52301025390625,
+                "Y": 200.99400329589844,
+                "Z": -325.9429931640625
+            },
+            "isAreaLocked": true
+        },
+        {
+            "id": 9,
+            "cityId": 1,
+            "lockState": 1
+        },
+        {
+            "id": 8,
+            "cityId": 1,
+            "level": 36,
+            "isAlive": true,
+            "nextRefreshTime": 300,
+            "refreshInterval": 300,
+            "pos": {
+                "X": 2096.257080078125,
+                "Y": 190.5749969482422,
+                "Z": -1674.468994140625
+            },
+            "maxBossChestNum": 100,
+            "resin": 40
+        },
+        {
+            "id": 7,
+            "cityId": 1,
+            "level": 36,
+            "isAlive": true,
+            "nextRefreshTime": 300,
+            "refreshInterval": 300,
+            "pos": {
+                "X": 2908.458984375,
+                "Y": 270.6300048828125,
+                "Z": -1301.281982421875
+            },
+            "maxBossChestNum": 100,
+            "resin": 40
+        },
+        {
+            "id": 6,
+            "cityId": 1,
+            "level": 36,
+            "isAlive": true,
+            "nextRefreshTime": 300,
+            "refreshInterval": 300,
+            "pos": {
+                "X": 1308.949951171875,
+                "Y": 331.7829895019531,
+                "Z": -1942.3389892578125
+            },
+            "maxBossChestNum": 100,
+            "resin": 40,
+            "isAreaLocked": true
+        },
+        {
+            "id": 2,
+            "cityId": 1,
+            "level": 15,
+            "isAlive": true,
+            "nextRefreshTime": 118800,
+            "refreshInterval": 86400,
+            "pos": {
+                "X": 2203.616943359375,
+                "Y": 279.6090087890625,
+                "Z": -203.37100219726562
+            },
+            "isAreaLocked": true
+        },
+        {
+            "id": 1,
+            "cityId": 1,
+            "level": 18,
+            "isAlive": true,
+            "nextRefreshTime": 118800,
+            "refreshInterval": 86400,
+            "pos": {
+                "X": 2915.8369140625,
+                "Y": 224.1929931640625,
+                "Z": -1736.39404296875
+            }
+        },
+        {
+            "id": 3,
+            "cityId": 1,
+            "level": 22,
+            "isAlive": true,
+            "nextRefreshTime": 1617094800,
+            "refreshInterval": 86400,
+            "pos": {
+                "X": 2852.8740234375,
+                "Y": 254.14500427246094,
+                "Z": -1738.031982421875
+            }
+        },
+        {
+            "id": 4,
+            "cityId": 1,
+            "level": 10,
+            "isAlive": true,
+            "nextRefreshTime": 118800,
+            "refreshInterval": 86400,
+            "pos": {
+                "X": 2276.60205078125,
+                "Y": 266.5329895019531,
+                "Z": -1644.301025390625
+            }
+        },
+        {
+            "id": 5,
+            "cityId": 1,
+            "level": 13,
+            "isAlive": true,
+            "nextRefreshTime": 43200,
+            "refreshInterval": 43200,
+            "pos": {
+                "X": 1526.16796875,
+                "Y": 287.52099609375,
+                "Z": -1293.0389404296875
+            },
+            "isAreaLocked": true
+        },
+        {
+            "id": 12,
+            "cityId": 1,
+            "level": 10,
+            "isAlive": true,
+            "nextRefreshTime": 43200,
+            "refreshInterval": 43200,
+            "pos": {
+                "X": 1736.2139892578125,
+                "Y": 255.13400268554688,
+                "Z": -982.72802734375
+            },
+            "isAreaLocked": true
+        },
+        {
+            "id": 13,
+            "cityId": 1,
+            "level": 36,
+            "isAlive": true,
+            "nextRefreshTime": 300,
+            "refreshInterval": 300,
+            "pos": {
+                "X": 47.5260009765625,
+                "Y": 202.01199340820312,
+                "Z": -853.9520263671875
+            },
+            "maxBossChestNum": 100,
+            "resin": 40,
+            "isAreaLocked": true
+        },
+        {
+            "id": 14,
+            "cityId": 1,
+            "level": 36,
+            "isAlive": true,
+            "nextRefreshTime": 300,
+            "refreshInterval": 300,
+            "pos": {
+                "X": 1787.5999755859375,
+                "Y": 200.5500030517578,
+                "Z": 277.9159851074219
+            },
+            "maxBossChestNum": 100,
+            "resin": 40,
+            "isAreaLocked": true
+        },
+        {
+            "id": 15,
+            "cityId": 1,
+            "level": 36,
+            "isAlive": true,
+            "nextRefreshTime": 300,
+            "refreshInterval": 300,
+            "pos": {
+                "X": 149.76199340820312,
+                "Y": 197.0800018310547,
+                "Z": 954.4749755859375
+            },
+            "maxBossChestNum": 100,
+            "resin": 40,
+            "isAreaLocked": true
+        },
+        {
+            "id": 16,
+            "cityId": 1,
+            "level": 15,
+            "isAlive": true,
+            "nextRefreshTime": 118800,
+            "refreshInterval": 86400,
+            "pos": {
+                "X": 1483.3480224609375,
+                "Y": 203.1909942626953,
+                "Z": 351.0570068359375
+            },
+            "isAreaLocked": true
+        },
+        {
+            "id": 17,
+            "cityId": 1,
+            "level": 18,
+            "isAlive": true,
+            "nextRefreshTime": 118800,
+            "refreshInterval": 86400,
+            "pos": {
+                "X": 2422.364990234375,
+                "Y": 240.8560028076172,
+                "Z": -403.7560119628906
+            },
+            "isAreaLocked": true
+        },
+        {
+            "id": 18,
+            "cityId": 1,
+            "level": 4,
+            "isAlive": true,
+            "nextRefreshTime": 43200,
+            "refreshInterval": 43200,
+            "pos": {
+                "X": 1785.7060546875,
+                "Y": 260.6239929199219,
+                "Z": -1027.532958984375
+            },
+            "isAreaLocked": true
+        },
+        {
+            "id": 19,
+            "cityId": 1,
+            "level": 16,
+            "isAlive": true,
+            "nextRefreshTime": 1617354000,
+            "refreshInterval": 86400,
+            "pos": {
+                "X": 2086.114013671875,
+                "Y": 236.87100219726562,
+                "Z": -593.72998046875
+            },
+            "isAreaLocked": true
+        },
+        {
+            "id": 20,
+            "cityId": 1,
+            "level": 1,
+            "isAlive": true,
+            "nextRefreshTime": 1617915666,
+            "refreshInterval": 43200,
+            "pos": {
+                "X": 2453.075927734375,
+                "Y": 220.3699951171875,
+                "Z": -1393.822998046875
+            }
+        },
+        {
+            "id": 21,
+            "cityId": 1,
+            "level": 18,
+            "isAlive": true,
+            "nextRefreshTime": 43200,
+            "refreshInterval": 43200,
+            "pos": {
+                "X": 1559.77197265625,
+                "Y": 231.9219970703125,
+                "Z": 751.7890014648438
+            },
+            "isAreaLocked": true
+        },
+        {
+            "id": 22,
+            "cityId": 1,
+            "level": 23,
+            "isAlive": true,
+            "nextRefreshTime": 118800,
+            "refreshInterval": 86400,
+            "pos": {
+                "X": 986.0339965820312,
+                "Y": 239.63600158691406,
+                "Z": 920.0360107421875
+            },
+            "isAreaLocked": true
+        },
+        {
+            "id": 23,
+            "cityId": 1,
+            "level": 36,
+            "isAlive": true,
+            "nextRefreshTime": 300,
+            "refreshInterval": 300,
+            "pos": {
+                "X": 208.32400512695312,
+                "Y": 185.01100158691406,
+                "Z": 1481.1719970703125
+            },
+            "maxBossChestNum": 100,
+            "resin": 40,
+            "isAreaLocked": true
+        }
+    ]
+}

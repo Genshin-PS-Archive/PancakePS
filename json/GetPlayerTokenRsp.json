@@ -1,0 +1,52 @@
+{
+    "uid": 624263971,
+    "token": "5d3a68649e77deb7870e76cb2a882f6afd683e58",
+    "accountType": 1,
+    "accountUid": "129399082",
+    "isProficientPlayer": true,
+    "secretKeySeed": {
+        "low": 1627169020,
+        "high": 387505306,
+        "unsigned": true
+    },
+    "securityCmdBuffer": {
+        "type": "Buffer",
+        "data": [
+            108,
+            229,
+            159,
+            17,
+            170,
+            180,
+            221,
+            135,
+            124,
+            29,
+            107,
+            199,
+            56,
+            60,
+            42,
+            139,
+            149,
+            31,
+            2,
+            85,
+            6,
+            50,
+            10,
+            176,
+            2,
+            138,
+            94,
+            187,
+            110,
+            151,
+            75,
+            178
+        ]
+    },
+    "platformType": 3,
+    "channelId": 1,
+    "countryCode": "MX"
+}

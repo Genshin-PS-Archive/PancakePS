@@ -1,0 +1,166 @@
+{
+    "abilityEntryList": [
+        {
+            "entityId": 67108866,
+            "hashValue": -1203230697,
+            "jobId": 79
+        },
+        {
+            "entityId": 67108872,
+            "hashValue": -1018429563,
+            "jobId": 80
+        },
+        {
+            "entityId": 67108871,
+            "hashValue": -1018429563,
+            "jobId": 81
+        },
+        {
+            "entityId": 67109090,
+            "hashValue": -1018429563,
+            "jobId": 82
+        },
+        {
+            "entityId": 67109484,
+            "hashValue": -1018429637,
+            "jobId": 83
+        },
+        {
+            "entityId": 67108876,
+            "hashValue": -1018429563,
+            "jobId": 84
+        },
+        {
+            "entityId": 67109091,
+            "hashValue": -1018429563,
+            "jobId": 85
+        },
+        {
+            "entityId": 67109089,
+            "hashValue": -1018429563,
+            "jobId": 86
+        },
+        {
+            "entityId": 67109308,
+            "hashValue": -1018429563,
+            "jobId": 87
+        },
+        {
+            "entityId": 67109193,
+            "hashValue": -1018429563,
+            "jobId": 88
+        },
+        {
+            "entityId": 67109192,
+            "hashValue": -1018429563,
+            "jobId": 89
+        },
+        {
+            "entityId": 67109309,
+            "hashValue": -1018429563,
+            "jobId": 90
+        },
+        {
+            "entityId": 67109442,
+            "hashValue": -1973443204,
+            "jobId": 91
+        },
+        {
+            "entityId": 67109441,
+            "hashValue": -1973443204,
+            "jobId": 92
+        },
+        {
+            "entityId": 67109439,
+            "hashValue": -1973443204,
+            "jobId": 93
+        },
+        {
+            "entityId": 67109276,
+            "hashValue": -62128153,
+            "jobId": 94
+        },
+        {
+            "entityId": 33554870,
+            "hashValue": -1031595579,
+            "jobId": 96
+        },
+        {
+            "entityId": 67109275,
+            "hashValue": -62128153,
+            "jobId": 98
+        },
+        {
+            "entityId": 67109273,
+            "hashValue": -62128153,
+            "jobId": 99
+        },
+        {
+            "entityId": 67109274,
+            "hashValue": -62128153,
+            "jobId": 100
+        },
+        {
+            "entityId": 33554775,
+            "hashValue": -1031595579,
+            "jobId": 102
+        },
+        {
+            "entityId": 33554773,
+            "hashValue": -1031595579,
+            "jobId": 105
+        },
+        {
+            "entityId": 33554774,
+            "hashValue": -1031595579,
+            "jobId": 108
+        },
+        {
+            "entityId": 33554959,
+            "hashValue": 1106719640,
+            "jobId": 111
+        },
+        {
+            "entityId": 33554958,
+            "hashValue": 1106719640,
+            "jobId": 114
+        },
+        {
+            "entityId": 100664042,
+            "hashValue": -45612843,
+            "jobId": 116
+        }
+    ],
+    "combatEntryList": [
+        {
+            "entityId": 33554870,
+            "hashValue": -2138046274,
+            "jobId": 97
+        },
+        {
+            "entityId": 33554775,
+            "hashValue": -2138046274,
+            "jobId": 103
+        },
+        {
+            "entityId": 33554773,
+            "hashValue": -2138046274,
+            "jobId": 106
+        },
+        {
+            "entityId": 33554774,
+            "hashValue": -2138046274,
+            "jobId": 109
+        },
+        {
+            "entityId": 33554959,
+            "hashValue": -2092957506,
+            "jobId": 112
+        },
+        {
+            "entityId": 33554958,
+            "hashValue": -2092957506,
+            "jobId": 115
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "mailList": [
+        {
+            "mailId": 14,
+            "mailTextContent": {
+                "title": "Compensación por mantenimiento programado de la versión 2.0",
+                "content": "Querido/a viajero/a:\nEl mantenimiento programado finalizó exitosamente. ¡Gracias por tu cooperación y comprensión! A continuación puedes recoger tu compensación, no olvides hacerlo antes de que expire el correo.",
+                "sender": "P·A·I·M·O·N"
+            },
+            "itemList": [
+                {
+                    "equipParam": {
+                        "itemId": 201,
+                        "itemNum": 300
+                    }
+                }
+            ],
+            "sendTime": 1626885692,
+            "expireTime": 1629477692,
+            "isRead": true,
+            "isAttachmentGot": true
+        }
+    ]
+}

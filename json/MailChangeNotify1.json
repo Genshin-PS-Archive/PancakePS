@@ -1,0 +1,25 @@
+{
+    "mailList": [
+        {
+            "mailId": 12,
+            "mailTextContent": {
+                "title": "¡Ya puedes ver la vista previa de la versión 2.0 «La diosa inmutable y la utopía eterna»!",
+                "content": "Querido/a viajero/a:\n\n¡Ya puedes ver la vista previa de la versión 2.0 «La diosa inmutable y la utopía eterna»!\n\n<type=\"webview\" text=\">> Haz clic para acceder a la vista previa de la versión 2.0 La diosa inmutable y la utopía eterna <<\" href=\"https://webstatic-sea.mihoyo.com/ys/event/e20210715-prepage/index.html?activity_no=1cc1043b19384827&sign_type=2&auth_appid=ewarm&authkey_ver=1&game_biz=hk4e_global&mode=fullscreen&gamewebview=true&utm_source=ingame&utm_medium=mail&utm_campaign=pcm\"/>\n\n※ Consigue 20 000 Mora al visitar y compartir la página del evento que encontrarás dentro del juego.",
+                "sender": "P·A·I·M·O·N"
+            },
+            "itemList": [
+                {
+                    "equipParam": {
+                        "itemId": 202,
+                        "itemNum": 1000
+                    }
+                }
+            ],
+            "sendTime": 1626695362,
+            "expireTime": 1627732162,
+            "importance": 1,
+            "isRead": true,
+            "isAttachmentGot": true
+        }
+    ]
+}

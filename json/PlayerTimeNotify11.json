@@ -1,0 +1,13 @@
+{
+    "isPaused": true,
+    "playerTime": {
+        "low": 17208635,
+        "high": 0,
+        "unsigned": true
+    },
+    "serverTime": {
+        "low": -611117224,
+        "high": 378,
+        "unsigned": true
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "avatarGuid": {
+        "low": 181,
+        "high": 624263971,
+        "unsigned": true
+    },
+    "equipType": 6,
+    "itemId": 12101,
+    "equipGuid": {
+        "low": 182,
+        "high": 624263971,
+        "unsigned": true
+    },
+    "weapon": {
+        "entityId": 100664044,
+        "gadgetId": 50012101,
+        "itemId": 12101,
+        "guid": {
+            "low": 182,
+            "high": 624263971,
+            "unsigned": true
+        },
+        "level": 1,
+        "abilityInfo": {}
+    }
+}

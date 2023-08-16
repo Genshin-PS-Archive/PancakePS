@@ -1,0 +1,19 @@
+{
+    "towerScheduleId": 26,
+    "towerFloorRecordList": [
+        {
+            "floorId": 1001
+        }
+    ],
+    "curLevelRecord": {
+        "isEmpty": true
+    },
+    "nextScheduleChangeTime": 1627808399,
+    "floorOpenTimeMap": {
+        "1020": 1626426000,
+        "1021": 1626426000,
+        "1022": 1626426000,
+        "1023": 1626426000
+    },
+    "scheduleStartTime": 1626426000
+}

@@ -1,0 +1,24 @@
+{
+    "activityInfo": {
+        "activityId": 5002,
+        "scheduleId": 5002016,
+        "activityType": 4,
+        "isFinished": true,
+        "trialAvatarInfo": {
+            "rewardInfoList": [
+                {
+                    "trialAvatarIndexId": 35
+                },
+                {
+                    "trialAvatarIndexId": 23
+                },
+                {
+                    "trialAvatarIndexId": 28
+                },
+                {
+                    "trialAvatarIndexId": 32
+                }
+            ]
+        }
+    }
+}

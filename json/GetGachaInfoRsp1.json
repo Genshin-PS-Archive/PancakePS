@@ -1,0 +1,114 @@
+{
+    "gachaInfoList": [
+        {
+            "gachaType": 200,
+            "scheduleId": 586,
+            "beginTime": 1626822000,
+            "endTime": 1662065999,
+            "costItemId": 224,
+            "costItemNum": 1,
+            "gachaPrefabPath": "GachaShowPanel_A022",
+            "gachaProbUrl": "https://webstatic-sea.mihoyo.com/hk4e/event/e20190909gacha/index.html?authkey_ver=1&sign_type=2&auth_appid=webview_gacha&gacha_id=3c6c223d4d5ada706c7216b82da2593cc17050&timestamp=1626824159",
+            "gachaRecordUrl": "https://webstatic-sea.mihoyo.com/hk4e/event/e20190909gacha/index.html?authkey_ver=1&sign_type=2&auth_appid=webview_gacha&init_type=200&gacha_id=3c6c223d4d5ada706c7216b82da2593cc17050&timestamp=1626824159",
+            "gachaPreviewPrefabPath": "UI_Tab_GachaShowPanel_A022",
+            "tenCostItemId": 224,
+            "tenCostItemNum": 10,
+            "leftGachaTimes": 4294967295,
+            "gachaTimesLimit": 4294967295,
+            "gachaSortId": 1000,
+            "gachaProbUrlOversea": "https://webstatic-sea.mihoyo.com/hk4e/event/e20190909gacha/index.html?authkey_ver=1&sign_type=2&auth_appid=webview_gacha&gacha_id=3c6c223d4d5ada706c7216b82da2593cc17050&timestamp=1626824159",
+            "gachaRecordUrlOversea": "https://webstatic-sea.mihoyo.com/hk4e/event/e20190909gacha/index.html?authkey_ver=1&sign_type=2&auth_appid=webview_gacha&init_type=200&gacha_id=3c6c223d4d5ada706c7216b82da2593cc17050&timestamp=1626824159"
+        },
+        {
+            "gachaType": 301,
+            "scheduleId": 587,
+            "beginTime": 1626822000,
+            "endTime": 1628636340,
+            "costItemId": 223,
+            "costItemNum": 1,
+            "gachaPrefabPath": "GachaShowPanel_A048",
+            "gachaProbUrl": "https://webstatic-sea.mihoyo.com/hk4e/event/e20190909gacha/index.html?authkey_ver=1&sign_type=2&auth_appid=webview_gacha&gacha_id=71eaf9e3bf2b240122a3f78e9bbfd3e43032fd&timestamp=1626824135",
+            "gachaRecordUrl": "https://webstatic-sea.mihoyo.com/hk4e/event/e20190909gacha/index.html?authkey_ver=1&sign_type=2&auth_appid=webview_gacha&init_type=301&gacha_id=71eaf9e3bf2b240122a3f78e9bbfd3e43032fd&timestamp=1626824135",
+            "gachaPreviewPrefabPath": "UI_Tab_GachaShowPanel_A048",
+            "tenCostItemId": 223,
+            "tenCostItemNum": 10,
+            "leftGachaTimes": 4294967295,
+            "gachaTimesLimit": 4294967295,
+            "gachaSortId": 9998,
+            "gachaProbUrlOversea": "https://webstatic-sea.mihoyo.com/hk4e/event/e20190909gacha/index.html?authkey_ver=1&sign_type=2&auth_appid=webview_gacha&gacha_id=71eaf9e3bf2b240122a3f78e9bbfd3e43032fd&timestamp=1626824135",
+            "gachaRecordUrlOversea": "https://webstatic-sea.mihoyo.com/hk4e/event/e20190909gacha/index.html?authkey_ver=1&sign_type=2&auth_appid=webview_gacha&init_type=301&gacha_id=71eaf9e3bf2b240122a3f78e9bbfd3e43032fd&timestamp=1626824135",
+            "gachaUpInfoList": [
+                {
+                    "itemParentType": 1,
+                    "itemIdList": [
+                        1002
+                    ]
+                },
+                {
+                    "itemParentType": 2,
+                    "itemIdList": [
+                        1027,
+                        1036,
+                        1048
+                    ]
+                }
+            ]
+        },
+        {
+            "gachaType": 302,
+            "scheduleId": 589,
+            "beginTime": 1626822000,
+            "endTime": 1628636340,
+            "costItemId": 223,
+            "costItemNum": 1,
+            "gachaPrefabPath": "GachaShowPanel_A050",
+            "gachaProbUrl": "https://webstatic-sea.mihoyo.com/hk4e/event/e20190909gacha/index.html?authkey_ver=1&sign_type=2&auth_appid=webview_gacha&gacha_id=67c1da4f2bd4d7be8c0d18be56037898055567&timestamp=1626824093",
+            "gachaRecordUrl": "https://webstatic-sea.mihoyo.com/hk4e/event/e20190909gacha/index.html?authkey_ver=1&sign_type=2&auth_appid=webview_gacha&init_type=302&gacha_id=67c1da4f2bd4d7be8c0d18be56037898055567&timestamp=1626824093",
+            "gachaPreviewPrefabPath": "UI_Tab_GachaShowPanel_A050",
+            "tenCostItemId": 223,
+            "tenCostItemNum": 10,
+            "leftGachaTimes": 4294967295,
+            "gachaTimesLimit": 4294967295,
+            "gachaSortId": 9997,
+            "gachaProbUrlOversea": "https://webstatic-sea.mihoyo.com/hk4e/event/e20190909gacha/index.html?authkey_ver=1&sign_type=2&auth_appid=webview_gacha&gacha_id=67c1da4f2bd4d7be8c0d18be56037898055567&timestamp=1626824093",
+            "gachaRecordUrlOversea": "https://webstatic-sea.mihoyo.com/hk4e/event/e20190909gacha/index.html?authkey_ver=1&sign_type=2&auth_appid=webview_gacha&init_type=302&gacha_id=67c1da4f2bd4d7be8c0d18be56037898055567&timestamp=1626824093",
+            "gachaUpInfoList": [
+                {
+                    "itemParentType": 1,
+                    "itemIdList": [
+                        11509,
+                        13502
+                    ]
+                },
+                {
+                    "itemParentType": 2,
+                    "itemIdList": [
+                        11401,
+                        12403,
+                        13407,
+                        14401,
+                        15402
+                    ]
+                }
+            ]
+        },
+        {
+            "gachaType": 100,
+            "endTime": 4294967295,
+            "costItemId": 224,
+            "costItemNum": 1,
+            "gachaPrefabPath": "GachaShowPanel_A016",
+            "gachaProbUrl": "https://webstatic.mihoyo.com/hk4e/event/e20190909gacha/index.html#/newbiegacha",
+            "gachaRecordUrl": "https://webstatic.mihoyo.com/hk4e/event/e20190909gacha/index.html?authkey_ver=1&sign_type=2&auth_appid=webview_gacha&init_type=100",
+            "gachaPreviewPrefabPath": "UI_Tab_GachaShowPanel_A016",
+            "tenCostItemId": 224,
+            "tenCostItemNum": 8,
+            "leftGachaTimes": 10,
+            "gachaTimesLimit": 20,
+            "gachaSortId": 9999,
+            "gachaProbUrlOversea": "https://webstatic-sea.mihoyo.com/hk4e/event/e20190909gacha/index.html#/newbiegacha",
+            "gachaRecordUrlOversea": "https://webstatic-sea.mihoyo.com/hk4e/event/e20190909gacha/index.html?authkey_ver=1&sign_type=2&auth_appid=webview_gacha&init_type=100"
+        }
+    ],
+    "gachaRandom": 978048672
+}

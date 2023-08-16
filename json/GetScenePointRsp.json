@@ -1,0 +1,29 @@
+{
+    "sceneId": 3,
+    "unlockedPointList": [
+        7,
+        10,
+        6,
+        8
+    ],
+    "unlockAreaList": [
+        1
+    ],
+    "notExploredDungeonEntryList": [
+        14,
+        15,
+        13,
+        1,
+        2,
+        12,
+        6,
+        10,
+        8,
+        16,
+        11,
+        3,
+        1001,
+        7,
+        9
+    ]
+}

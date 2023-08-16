@@ -1,0 +1,16 @@
+{
+    "detailData": {
+        "uid": 624263971,
+        "nickname": "nicneimgg",
+        "level": 5,
+        "birthday": {
+            "month": 9,
+            "day": 14
+        },
+        "onlineState": 1,
+        "isFriend": true,
+        "isMpModeAvailable": true,
+        "nameCardId": 210001,
+        "finishAchievementNum": 4
+    }
+}

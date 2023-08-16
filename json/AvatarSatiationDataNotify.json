@@ -1,0 +1,40 @@
+{
+    "satiationDataList": [
+        {
+            "avatarGuid": {
+                "low": 1,
+                "high": 624263971,
+                "unsigned": true
+            },
+            "finishTime": 17169.43359375,
+            "penaltyFinishTime": 17169.43359375
+        },
+        {
+            "avatarGuid": {
+                "low": 76,
+                "high": 624263971,
+                "unsigned": true
+            },
+            "finishTime": 17169.43359375,
+            "penaltyFinishTime": 17169.43359375
+        },
+        {
+            "avatarGuid": {
+                "low": 181,
+                "high": 624263971,
+                "unsigned": true
+            },
+            "finishTime": 17169.43359375,
+            "penaltyFinishTime": 17169.43359375
+        },
+        {
+            "avatarGuid": {
+                "low": 394,
+                "high": 624263971,
+                "unsigned": true
+            },
+            "finishTime": 17169.43359375,
+            "penaltyFinishTime": 17169.43359375
+        }
+    ]
+}

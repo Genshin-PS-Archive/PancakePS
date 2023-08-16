@@ -1,0 +1,49 @@
+{
+    "friendList": [
+        {
+            "uid": 620336771,
+            "nickname": "SHAAARK",
+            "level": 55,
+            "worldLevel": 8,
+            "signature": "bro",
+            "onlineState": 1,
+            "isMpModeAvailable": true,
+            "lastActiveTime": 1627179889,
+            "nameCardId": 210070,
+            "showAvatarInfoList": [
+                {
+                    "avatarId": 10000033,
+                    "level": 85
+                },
+                {
+                    "avatarId": 10000032,
+                    "level": 83
+                },
+                {
+                    "avatarId": 10000016,
+                    "level": 80
+                },
+                {
+                    "avatarId": 10000030,
+                    "level": 60
+                },
+                {
+                    "avatarId": 10000041,
+                    "level": 80
+                },
+                {
+                    "avatarId": 10000042,
+                    "level": 70
+                },
+                {
+                    "avatarId": 10000051,
+                    "level": 90
+                },
+                {
+                    "avatarId": 10000006,
+                    "level": 71
+                }
+            ]
+        }
+    ]
+}

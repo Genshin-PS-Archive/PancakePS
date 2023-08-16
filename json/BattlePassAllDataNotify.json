@@ -1,0 +1,199 @@
+{
+    "haveCurSchedule": true,
+    "curSchedule": {
+        "scheduleId": 2000,
+        "unlockStatus": 1,
+        "beginTime": 1626771600,
+        "endTime": 1630314000,
+        "curCycle": {
+            "cycleIdx": 1,
+            "beginTime": 1626685200,
+            "endTime": 1627290000
+        },
+        "productInfo": {
+            "normalProductId": "ys_glb_bp_normal_tier10",
+            "extraProductId": "ys_glb_bp_extra_tier20",
+            "upgradeProductId": "ys_glb_bp_upgrade_tier12"
+        }
+    },
+    "missionList": [
+        {
+            "missionId": 73003,
+            "totalProgress": 10,
+            "rewardBattlePassPoint": 450,
+            "missionType": 1,
+            "missionStatus": 1
+        },
+        {
+            "missionId": 73009,
+            "totalProgress": 20,
+            "rewardBattlePassPoint": 450,
+            "missionType": 1,
+            "missionStatus": 1
+        },
+        {
+            "missionId": 75708,
+            "totalProgress": 1,
+            "rewardBattlePassPoint": 2250,
+            "missionType": 2,
+            "missionStatus": 1
+        },
+        {
+            "missionId": 75702,
+            "totalProgress": 12,
+            "rewardBattlePassPoint": 2250,
+            "missionType": 2,
+            "missionStatus": 1
+        },
+        {
+            "missionId": 73011,
+            "totalProgress": 20,
+            "rewardBattlePassPoint": 360,
+            "missionType": 1,
+            "missionStatus": 1
+        },
+        {
+            "missionId": 73007,
+            "totalProgress": 500000,
+            "rewardBattlePassPoint": 450,
+            "missionType": 1,
+            "missionStatus": 1
+        },
+        {
+            "missionId": 73018,
+            "totalProgress": 10,
+            "rewardBattlePassPoint": 450,
+            "missionType": 1,
+            "missionStatus": 1
+        },
+        {
+            "missionId": 75709,
+            "totalProgress": 1,
+            "rewardBattlePassPoint": 1200,
+            "missionType": 2,
+            "missionStatus": 1
+        },
+        {
+            "missionId": 72002,
+            "totalProgress": 4,
+            "rewardBattlePassPoint": 150,
+            "missionStatus": 1
+        },
+        {
+            "missionId": 75705,
+            "totalProgress": 1,
+            "rewardBattlePassPoint": 1500,
+            "missionType": 2,
+            "missionStatus": 1
+        },
+        {
+            "missionId": 73006,
+            "totalProgress": 1200,
+            "rewardBattlePassPoint": 675,
+            "missionType": 1,
+            "missionStatus": 1
+        },
+        {
+            "missionId": 75701,
+            "totalProgress": 50,
+            "rewardBattlePassPoint": 1500,
+            "missionType": 2,
+            "missionStatus": 1
+        },
+        {
+            "missionId": 73010,
+            "totalProgress": 20,
+            "rewardBattlePassPoint": 360,
+            "missionType": 1,
+            "missionStatus": 1
+        },
+        {
+            "missionId": 73019,
+            "totalProgress": 2,
+            "rewardBattlePassPoint": 450,
+            "missionType": 1,
+            "missionStatus": 1
+        },
+        {
+            "missionId": 73008,
+            "totalProgress": 15,
+            "rewardBattlePassPoint": 450,
+            "missionType": 1,
+            "missionStatus": 1
+        },
+        {
+            "missionId": 72004,
+            "totalProgress": 150,
+            "rewardBattlePassPoint": 225,
+            "missionStatus": 1
+        },
+        {
+            "missionId": 75707,
+            "totalProgress": 2220,
+            "rewardBattlePassPoint": 1500,
+            "missionType": 2,
+            "missionStatus": 1
+        },
+        {
+            "missionId": 72003,
+            "totalProgress": 10,
+            "rewardBattlePassPoint": 150,
+            "missionStatus": 1
+        },
+        {
+            "missionId": 75706,
+            "totalProgress": 1680,
+            "rewardBattlePassPoint": 1200,
+            "missionType": 2,
+            "missionStatus": 1
+        },
+        {
+            "missionId": 72001,
+            "totalProgress": 1,
+            "rewardBattlePassPoint": 120,
+            "missionStatus": 2
+        },
+        {
+            "missionId": 73013,
+            "totalProgress": 3,
+            "rewardBattlePassPoint": 450,
+            "missionType": 1,
+            "missionStatus": 1
+        },
+        {
+            "missionId": 75704,
+            "totalProgress": 1,
+            "rewardBattlePassPoint": 2250,
+            "missionType": 2,
+            "missionStatus": 1
+        },
+        {
+            "missionId": 75703,
+            "totalProgress": 1,
+            "rewardBattlePassPoint": 1200,
+            "missionType": 2,
+            "missionStatus": 1
+        },
+        {
+            "missionId": 73012,
+            "totalProgress": 3,
+            "rewardBattlePassPoint": 450,
+            "missionType": 1,
+            "missionStatus": 1
+        },
+        {
+            "missionId": 73020,
+            "totalProgress": 3,
+            "rewardBattlePassPoint": 1350,
+            "missionType": 1,
+            "missionStatus": 1
+        },
+        {
+            "missionId": 73017,
+            "totalProgress": 1000,
+            "rewardBattlePassPoint": 675,
+            "missionType": 1,
+            "missionStatus": 1
+        }
+    ]
+}

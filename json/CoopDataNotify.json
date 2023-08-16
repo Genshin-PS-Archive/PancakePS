@@ -1,0 +1,52 @@
+{
+    "chapterList": [
+        {
+            "id": 101401,
+            "state": 1,
+            "lockReasonList": [
+                1,
+                2
+            ]
+        },
+        {
+            "id": 103201,
+            "state": 1,
+            "lockReasonList": [
+                1,
+                2
+            ]
+        },
+        {
+            "id": 103401,
+            "state": 1,
+            "lockReasonList": [
+                1,
+                2
+            ]
+        },
+        {
+            "id": 103402,
+            "state": 1,
+            "lockReasonList": [
+                1,
+                2
+            ]
+        },
+        {
+            "id": 103601,
+            "state": 1,
+            "lockReasonList": [
+                1,
+                2
+            ]
+        },
+        {
+            "id": 103901,
+            "state": 1,
+            "lockReasonList": [
+                1,
+                2
+            ]
+        }
+    ]
+}

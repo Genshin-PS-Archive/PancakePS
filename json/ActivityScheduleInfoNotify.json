@@ -1,0 +1,25 @@
+{
+    "activityScheduleList": [
+        {
+            "activityId": 5039,
+            "isOpen": true,
+            "scheduleId": 5039001,
+            "beginTime": 1626822000,
+            "endTime": 1630450800
+        },
+        {
+            "activityId": 5002,
+            "isOpen": true,
+            "scheduleId": 5002016,
+            "beginTime": 1626822000,
+            "endTime": 1628636340
+        },
+        {
+            "activityId": 5038,
+            "isOpen": true,
+            "scheduleId": 5038001,
+            "beginTime": 1626822000,
+            "endTime": 1630450800
+        }
+    ]
+}

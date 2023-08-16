@@ -1,0 +1,16 @@
+{
+    "simpleInfoList": [
+        {
+            "cityId": 1,
+            "level": 1
+        },
+        {
+            "cityId": 2,
+            "level": 1
+        },
+        {
+            "cityId": 3,
+            "level": 1
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "achievementList": [
+        {
+            "id": 82041,
+            "status": 1,
+            "curProgress": 87,
+            "totalProgress": 5000
+        },
+        {
+            "id": 82042,
+            "status": 1,
+            "curProgress": 87,
+            "totalProgress": 20000
+        },
+        {
+            "id": 82043,
+            "status": 1,
+            "curProgress": 87,
+            "totalProgress": 50000
+        }
+    ]
+}

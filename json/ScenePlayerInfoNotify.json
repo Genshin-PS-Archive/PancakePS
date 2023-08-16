@@ -1,0 +1,18 @@
+{
+    "playerInfoList": [
+        {
+            "uid": 624263971,
+            "peerId": 1,
+            "name": "nicneimgg",
+            "sceneId": 3,
+            "onlinePlayerInfo": {
+                "uid": 624263971,
+                "nickname": "nicneimgg",
+                "playerLevel": 5,
+                "mpSettingType": 2,
+                "curPlayerNumInWorld": 1,
+                "nameCardId": 210001
+            }
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "entityId": 880804880,
+    "invokes": [
+        {
+            "head": {
+                "instancedAbilityId": 1,
+                "instancedModifierId": 1
+            },
+            "argumentType": 1,
+            "entityId": 880804880,
+            "forwardType": 2
+        }
+    ]
+}

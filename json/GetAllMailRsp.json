@@ -1,0 +1,181 @@
+{
+    "mailList": [
+        {
+            "mailId": 9,
+            "mailTextContent": {
+                "title": "¿Qué tal has estado?",
+                "content": "La calidad de la fruta este año es excelente. Quiero que seas de las primeras personas en probar la sidra de manzana de esta temporada, así que te envío una muestra cuidadosamente seleccionada.\nEspero que tu viaje transcurra sin problemas. En territorios desconocidos, es frecuente encontrarse con infortunios. Saber adaptarse a ellos es esencial, así como contar con asistencia en los momentos críticos.\nMe he fijado en cómo te enfrentas a los problemas inesperados. ¡Tienes unas habilidades admirables! Eres capaz de resolver cualquier situación difícil sin ayuda.\nCuentas con numerosas cualidades que fascinan a los que te rodean. A mí también, por eso tengo presentes las lecciones que aprendo de ti y las aplico a mi propio comportamiento. Es una nueva experiencia que me transmite bienestar. Debería esforzarme más para ser mejor.\nAunque nuestros destinos sean diferentes, vamos por el mismo camino, y seguiré acompañándote hasta el final.",
+                "sender": "Diluc"
+            },
+            "itemList": [
+                {
+                    "equipParam": {
+                        "itemId": 108058,
+                        "itemNum": 1
+                    }
+                },
+                {
+                    "equipParam": {
+                        "itemId": 108151,
+                        "itemNum": 5
+                    }
+                }
+            ],
+            "sendTime": 1619790473,
+            "expireTime": 1651326473,
+            "importance": 1,
+            "isRead": true,
+            "isAttachmentGot": true
+        },
+        {
+            "mailId": 2,
+            "mailTextContent": {
+                "title": "Recompensa por alcanzar el hito de 3 millones de pre-registros",
+                "content": "Estimado/a viajero/a:\n\n¡Gracias a tu apoyo y al de toda la comunidad de viajeros alcanzamos 3 millones de pre-registros para Genshin Impact! Además, también alcanzamos nuestros objetivos en las redes sociales. \n\nPara agradecer tu apoyo durante todo este tiempo, queremos entregarte estos obsequios: Encuentro del destino ×10, EXP de Aventurero ×10, Mineral de refinamiento fino ×10, Tortilla de papas de Mondstadt ×5, Guisado de temporada ×5, Tostada del pescador ×5, y Mora ×10 000.\n\nLa aventura ha comenzado... ¡Te esperamos en Teyvat!",
+                "sender": "P·A·I·M·O·N"
+            },
+            "itemList": [
+                {
+                    "equipParam": {
+                        "itemId": 224,
+                        "itemNum": 10
+                    }
+                },
+                {
+                    "equipParam": {
+                        "itemId": 104002,
+                        "itemNum": 10
+                    }
+                },
+                {
+                    "equipParam": {
+                        "itemId": 104012,
+                        "itemNum": 10
+                    }
+                },
+                {
+                    "equipParam": {
+                        "itemId": 108046,
+                        "itemNum": 5
+                    }
+                },
+                {
+                    "equipParam": {
+                        "itemId": 108038,
+                        "itemNum": 5
+                    }
+                },
+                {
+                    "equipParam": {
+                        "itemId": 108002,
+                        "itemNum": 5
+                    }
+                },
+                {
+                    "equipParam": {
+                        "itemId": 202,
+                        "itemNum": 10000
+                    }
+                }
+            ],
+            "sendTime": 1617060889,
+            "expireTime": 1648596889,
+            "isRead": true,
+            "isAttachmentGot": true
+        },
+        {
+            "mailId": 1,
+            "mailTextContent": {
+                "title": "Recompensa - Alas Protectoras",
+                "content": "Estimado/a viajero/a:\n\nHemos enviado a tu correo el Planeador de diseño especial “Alas Protectoras”, como muestra de agradecimiento por apoyarnos y motivarnos todo este tiempo. ¡Extiende tus alas y surca por los cielos de Teyvat!\n\nNota: La función del Armario se desbloquea con el progreso del juego. Podrás equipar este Planeador una vez que esta función esté desbloqueada.",
+                "sender": "P·A·I·M·O·N"
+            },
+            "itemList": [
+                {
+                    "equipParam": {
+                        "itemId": 140002,
+                        "itemNum": 1
+                    }
+                }
+            ],
+            "sendTime": 1617060889,
+            "expireTime": 1648596889,
+            "isRead": true,
+            "isAttachmentGot": true
+        },
+        {
+            "mailId": 15,
+            "mailTextContent": {
+                "title": "Compensación por corrección de errores en la versión 2.0",
+                "content": "Querido/a viajero/a:\nLamentamos haber detectado estos errores en la versión 1.6:\n1. Cuando un personaje provocaba la reacción de Sobrecarga a sí mismo, no podía infligir daño a los enemigos.\n2. Un personaje podía recibir daño cuando activaba la reacción de Torbellino con múltiples elementos contra varios enemigos.\n3. Error con el piso 7 de la Espiral del Abismo por el que el efecto \"Los golpes con Daño CRIT generarán orbes y partículas elementales\" de las líneas ley anómalas no resultaba efectivo.\n4. Error con el personaje Viajero/a (Anemo) por el que, tras resonar con la Estatua de Los Siete varias veces, los efectos del nivel 4 de la constelación \"Brisa protectora\" y los del talento pasivo \"Viento de la resurrección\" no resultaban efectivos.\nActualmente, estos errores ya fueron reparados. A continuación puedes recoger tu compensación por la detección de dichos errores. ¡No olvides reclamarla a tiempo!",
+                "sender": "P·A·I·M·O·N"
+            },
+            "itemList": [
+                {
+                    "equipParam": {
+                        "itemId": 201,
+                        "itemNum": 300
+                    }
+                }
+            ],
+            "sendTime": 1626885692,
+            "expireTime": 1629477692
+        },
+        {
+            "mailId": 14,
+            "mailTextContent": {
+                "title": "Compensación por mantenimiento programado de la versión 2.0",
+                "content": "Querido/a viajero/a:\nEl mantenimiento programado finalizó exitosamente. ¡Gracias por tu cooperación y comprensión! A continuación puedes recoger tu compensación, no olvides hacerlo antes de que expire el correo.",
+                "sender": "P·A·I·M·O·N"
+            },
+            "itemList": [
+                {
+                    "equipParam": {
+                        "itemId": 201,
+                        "itemNum": 300
+                    }
+                }
+            ],
+            "sendTime": 1626885692,
+            "expireTime": 1629477692
+        },
+        {
+            "mailId": 13,
+            "mailTextContent": {
+                "title": "Genshin Impact - Encuesta de preferencias del jugador",
+                "content": "¡El nuevo viaje de la versión 2.0 ya comenzó! Para comprender los hábitos de juego de los viajeros y traerles una mejor experiencia de juego, Paimon preparó una encuesta especial. Haz clic a continuación para participar.\nLas respuestas no pueden ser editadas después de enviar la encuesta, así que asegúrate de responder con cuidado. Como agradecimiento, los viajeros que completen la encuesta obtendrán <color=yellow>Protogema ×50</color>. La opinión de nuestros viajeros es muy importante para nosotros, ¡así que Paimon espera que puedan ayudarnos a completar esta encuesta!\n<type=\"webview\" text=\"Enlace de la encuesta\" href=\"https://webstatic-sea.mihoyo.com/common/event/survey-user-v2/index.html?auth_appid=survey_ngd6oezjngd67gidmng2xkh3rnwxyeml&game_biz=hk4e_global&surveyId=2993&format=1&sign_type=2&authkey_ver=1\"/>",
+                "sender": "P·A·I·M·O·N"
+            },
+            "itemList": [
+                {
+                    "equipParam": {
+                        "itemId": 202,
+                        "itemNum": 300
+                    }
+                }
+            ],
+            "sendTime": 1626885692,
+            "expireTime": 1629477692,
+            "importance": 1
+        },
+        {
+            "mailId": 12,
+            "mailTextContent": {
+                "title": "¡Ya puedes ver la vista previa de la versión 2.0 «La diosa inmutable y la utopía eterna»!",
+                "content": "Querido/a viajero/a:\n\n¡Ya puedes ver la vista previa de la versión 2.0 «La diosa inmutable y la utopía eterna»!\n\n<type=\"webview\" text=\">> Haz clic para acceder a la vista previa de la versión 2.0 La diosa inmutable y la utopía eterna <<\" href=\"https://webstatic-sea.mihoyo.com/ys/event/e20210715-prepage/index.html?activity_no=1cc1043b19384827&sign_type=2&auth_appid=ewarm&authkey_ver=1&game_biz=hk4e_global&mode=fullscreen&gamewebview=true&utm_source=ingame&utm_medium=mail&utm_campaign=pcm\"/>\n\n※ Consigue 20 000 Mora al visitar y compartir la página del evento que encontrarás dentro del juego.",
+                "sender": "P·A·I·M·O·N"
+            },
+            "itemList": [
+                {
+                    "equipParam": {
+                        "itemId": 202,
+                        "itemNum": 1000
+                    }
+                }
+            ],
+            "sendTime": 1626695362,
+            "expireTime": 1627732162,
+            "importance": 1
+        }
+    ]
+}

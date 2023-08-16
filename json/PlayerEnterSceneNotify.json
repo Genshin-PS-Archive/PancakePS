@@ -1,0 +1,24 @@
+{
+    "sceneId": 3,
+    "pos": {
+        "X": 2213.626220703125,
+        "Y": 230.67051696777344,
+        "Z": -870.0728149414062
+    },
+    "sceneBeginTime": {
+        "low": -623583935,
+        "high": 378,
+        "unsigned": true
+    },
+    "type": 1,
+    "targetUid": 624263971,
+    "enterSceneToken": 3495,
+    "isFirstLoginEnterScene": true,
+    "sceneTagIdList": [
+        102,
+        107,
+        113,
+        117
+    ],
+    "enterReason": 1
+}

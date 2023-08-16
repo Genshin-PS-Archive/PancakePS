@@ -1,0 +1,23 @@
+{
+    "mailList": [
+        {
+            "mailId": 16,
+            "mailTextContent": {
+                "title": "¡Ya puedes ver la vista previa de la versión 2.1 «Una luna sobre los mortales»!",
+                "content": "Querido/a viajero/a:\n\n¡Ya puedes ver la vista previa de la versión 2.1 «Una luna sobre los mortales»!\n\n<type=\"webview\" text=\">> Haz clic para acceder a la vista previa de la versión 2.1 «Una luna sobre los mortales» <<\" href=\"https://webstatic-sea.mihoyo.com/ys/event/e20210820-preview/index.html?activity_no=19523cda00e44079&sign_type=2&auth_appid=ewarm&authkey_ver=1&game_biz=hk4e_global&mode=fullscreen&gamewebview=true&utm_source=ingame&utm_medium=mail\"/>\n\n※ Consigue 20 000 Mora al visitar y compartir la página del evento que encontrarás dentro del juego.",
+                "sender": "P·A·I·M·O·N"
+            },
+            "itemList": [
+                {
+                    "equipParam": {
+                        "itemId": 202,
+                        "itemNum": 1000
+                    }
+                }
+            ],
+            "sendTime": 1629642152,
+            "expireTime": 1630678952,
+            "importance": 1
+        }
+    ]
+}

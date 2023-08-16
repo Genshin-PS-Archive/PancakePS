@@ -1,0 +1,56 @@
+{
+    "entityId": 67109451,
+    "invokes": [
+        {
+            "head": {
+                "instancedAbilityId": 1,
+                "instancedModifierId": 1,
+                "modifierConfigLocalId": 6
+            },
+            "argumentType": 1,
+            "abilityData": {
+                "type": "Buffer",
+                "data": [
+                    48,
+                    6
+                ]
+            },
+            "entityId": 67109451,
+            "forwardType": 2
+        },
+        {
+            "head": {
+                "instancedAbilityId": 1,
+                "instancedModifierId": 2,
+                "modifierConfigLocalId": 8
+            },
+            "argumentType": 1,
+            "abilityData": {
+                "type": "Buffer",
+                "data": [
+                    48,
+                    8
+                ]
+            },
+            "entityId": 67109451,
+            "forwardType": 2
+        },
+        {
+            "head": {
+                "instancedAbilityId": 1,
+                "instancedModifierId": 3,
+                "modifierConfigLocalId": 9
+            },
+            "argumentType": 1,
+            "abilityData": {
+                "type": "Buffer",
+                "data": [
+                    48,
+                    9
+                ]
+            },
+            "entityId": 67109451,
+            "forwardType": 2
+        }
+    ]
+}

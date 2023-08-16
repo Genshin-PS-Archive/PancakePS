@@ -1,0 +1,817 @@
+{
+    "storeType": 1,
+    "itemList": [
+        {
+            "itemId": 11101,
+            "guid": {
+                "low": 2,
+                "high": 624263971,
+                "unsigned": true
+            },
+            "equip": {
+                "weapon": {
+                    "level": 1
+                }
+            }
+        },
+        {
+            "itemId": 100073,
+            "guid": {
+                "low": 3,
+                "high": 624263971,
+                "unsigned": true
+            },
+            "material": {
+                "count": 1
+            }
+        },
+        {
+            "itemId": 100002,
+            "guid": {
+                "low": 10,
+                "high": 624263971,
+                "unsigned": true
+            },
+            "material": {
+                "count": 7
+            }
+        },
+        {
+            "itemId": 100016,
+            "guid": {
+                "low": 15,
+                "high": 624263971,
+                "unsigned": true
+            },
+            "material": {
+                "count": 1
+            }
+        },
+        {
+            "itemId": 100051,
+            "guid": {
+                "low": 16,
+                "high": 624263971,
+                "unsigned": true
+            },
+            "material": {
+                "count": 9
+            }
+        },
+        {
+            "itemId": 100011,
+            "guid": {
+                "low": 19,
+                "high": 624263971,
+                "unsigned": true
+            },
+            "material": {
+                "count": 3
+            }
+        },
+        {
+            "itemId": 108005,
+            "guid": {
+                "low": 40,
+                "high": 624263971,
+                "unsigned": true
+            },
+            "material": {
+                "count": 10
+            }
+        },
+        {
+            "itemId": 108032,
+            "guid": {
+                "low": 41,
+                "high": 624263971,
+                "unsigned": true
+            },
+            "material": {
+                "count": 15
+            }
+        },
+        {
+            "itemId": 104002,
+            "guid": {
+                "low": 50,
+                "high": 624263971,
+                "unsigned": true
+            },
+            "material": {
+                "count": 12
+            }
+        },
+        {
+            "itemId": 104012,
+            "guid": {
+                "low": 51,
+                "high": 624263971,
+                "unsigned": true
+            },
+            "material": {
+                "count": 25
+            }
+        },
+        {
+            "itemId": 108046,
+            "guid": {
+                "low": 52,
+                "high": 624263971,
+                "unsigned": true
+            },
+            "material": {
+                "count": 5
+            }
+        },
+        {
+            "itemId": 108038,
+            "guid": {
+                "low": 53,
+                "high": 624263971,
+                "unsigned": true
+            },
+            "material": {
+                "count": 5
+            }
+        },
+        {
+            "itemId": 108002,
+            "guid": {
+                "low": 54,
+                "high": 624263971,
+                "unsigned": true
+            },
+            "material": {
+                "count": 5
+            }
+        },
+        {
+            "itemId": 100012,
+            "guid": {
+                "low": 61,
+                "high": 624263971,
+                "unsigned": true
+            },
+            "material": {
+                "count": 3
+            }
+        },
+        {
+            "itemId": 100001,
+            "guid": {
+                "low": 65,
+                "high": 624263971,
+                "unsigned": true
+            },
+            "material": {
+                "count": 8
+            }
+        },
+        {
+            "itemId": 100061,
+            "guid": {
+                "low": 68,
+                "high": 624263971,
+                "unsigned": true
+            },
+            "material": {
+                "count": 2
+            }
+        },
+        {
+            "itemId": 100135,
+            "guid": {
+                "low": 71,
+                "high": 624263971,
+                "unsigned": true
+            },
+            "material": {
+                "count": 1
+            }
+        },
+        {
+            "itemId": 15101,
+            "guid": {
+                "low": 77,
+                "high": 624263971,
+                "unsigned": true
+            },
+            "equip": {
+                "weapon": {
+                    "level": 1
+                }
+            }
+        },
+        {
+            "itemId": 11201,
+            "guid": {
+                "low": 79,
+                "high": 624263971,
+                "unsigned": true
+            },
+            "equip": {
+                "weapon": {
+                    "level": 1
+                }
+            }
+        },
+        {
+            "itemId": 104011,
+            "guid": {
+                "low": 80,
+                "high": 624263971,
+                "unsigned": true
+            },
+            "material": {
+                "count": 29
+            }
+        },
+        {
+            "itemId": 100013,
+            "guid": {
+                "low": 96,
+                "high": 624263971,
+                "unsigned": true
+            },
+            "material": {
+                "count": 2
+            }
+        },
+        {
+            "itemId": 305,
+            "guid": {
+                "low": 100,
+                "high": 624263971,
+                "unsigned": true
+            },
+            "material": {
+                "count": 2
+            }
+        },
+        {
+            "itemId": 60120,
+            "guid": {
+                "low": 101,
+                "high": 624263971,
+                "unsigned": true
+            },
+            "equip": {
+                "reliquary": {
+                    "level": 1,
+                    "mainPropId": 12001
+                }
+            }
+        },
+        {
+            "itemId": 100020,
+            "guid": {
+                "low": 103,
+                "high": 624263971,
+                "unsigned": true
+            },
+            "material": {
+                "count": 4
+            }
+        },
+        {
+            "itemId": 101001,
+            "guid": {
+                "low": 107,
+                "high": 624263971,
+                "unsigned": true
+            },
+            "material": {
+                "count": 1
+            }
+        },
+        {
+            "itemId": 14101,
+            "guid": {
+                "low": 112,
+                "high": 624263971,
+                "unsigned": true
+            },
+            "equip": {
+                "weapon": {
+                    "level": 1
+                }
+            }
+        },
+        {
+            "itemId": 60130,
+            "guid": {
+                "low": 113,
+                "high": 624263971,
+                "unsigned": true
+            },
+            "equip": {
+                "reliquary": {
+                    "level": 1,
+                    "mainPropId": 13007
+                }
+            }
+        },
+        {
+            "itemId": 15303,
+            "guid": {
+                "low": 131,
+                "high": 624263971,
+                "unsigned": true
+            },
+            "equip": {
+                "weapon": {
+                    "level": 1,
+                    "affixMap": {
+                        "115303": 0
+                    }
+                }
+            }
+        },
+        {
+            "itemId": 104001,
+            "guid": {
+                "low": 134,
+                "high": 624263971,
+                "unsigned": true
+            },
+            "material": {
+                "count": 19
+            }
+        },
+        {
+            "itemId": 100063,
+            "guid": {
+                "low": 148,
+                "high": 624263971,
+                "unsigned": true
+            },
+            "material": {
+                "count": 2
+            }
+        },
+        {
+            "itemId": 15304,
+            "guid": {
+                "low": 167,
+                "high": 624263971,
+                "unsigned": true
+            },
+            "equip": {
+                "weapon": {
+                    "level": 1,
+                    "affixMap": {
+                        "115304": 0
+                    }
+                }
+            }
+        },
+        {
+            "itemId": 222,
+            "guid": {
+                "low": 168,
+                "high": 624263971,
+                "unsigned": true
+            },
+            "material": {
+                "count": 75
+            }
+        },
+        {
+            "itemId": 12301,
+            "guid": {
+                "low": 169,
+                "high": 624263971,
+                "unsigned": true
+            },
+            "equip": {
+                "weapon": {
+                    "level": 1,
+                    "affixMap": {
+                        "112301": 0
+                    }
+                }
+            }
+        },
+        {
+            "itemId": 12305,
+            "guid": {
+                "low": 171,
+                "high": 624263971,
+                "unsigned": true
+            },
+            "equip": {
+                "weapon": {
+                    "level": 1,
+                    "affixMap": {
+                        "112305": 0
+                    }
+                }
+            }
+        },
+        {
+            "itemId": 11301,
+            "guid": {
+                "low": 173,
+                "high": 624263971,
+                "unsigned": true
+            },
+            "equip": {
+                "weapon": {
+                    "level": 1,
+                    "affixMap": {
+                        "111301": 0
+                    }
+                }
+            }
+        },
+        {
+            "itemId": 15302,
+            "guid": {
+                "low": 175,
+                "high": 624263971,
+                "unsigned": true
+            },
+            "equip": {
+                "weapon": {
+                    "level": 1,
+                    "affixMap": {
+                        "115302": 0
+                    }
+                }
+            }
+        },
+        {
+            "itemId": 12302,
+            "guid": {
+                "low": 177,
+                "high": 624263971,
+                "unsigned": true
+            },
+            "equip": {
+                "weapon": {
+                    "level": 1,
+                    "affixMap": {
+                        "112302": 0
+                    }
+                }
+            }
+        },
+        {
+            "itemId": 12302,
+            "guid": {
+                "low": 179,
+                "high": 624263971,
+                "unsigned": true
+            },
+            "equip": {
+                "weapon": {
+                    "level": 1,
+                    "affixMap": {
+                        "112302": 0
+                    }
+                }
+            }
+        },
+        {
+            "itemId": 12101,
+            "guid": {
+                "low": 182,
+                "high": 624263971,
+                "unsigned": true
+            },
+            "equip": {
+                "weapon": {
+                    "level": 1
+                }
+            }
+        },
+        {
+            "itemId": 12301,
+            "guid": {
+                "low": 183,
+                "high": 624263971,
+                "unsigned": true
+            },
+            "equip": {
+                "weapon": {
+                    "level": 1,
+                    "affixMap": {
+                        "112301": 0
+                    }
+                }
+            }
+        },
+        {
+            "itemId": 15302,
+            "guid": {
+                "low": 185,
+                "high": 624263971,
+                "unsigned": true
+            },
+            "equip": {
+                "weapon": {
+                    "level": 1,
+                    "affixMap": {
+                        "115302": 0
+                    }
+                }
+            }
+        },
+        {
+            "itemId": 13303,
+            "guid": {
+                "low": 187,
+                "high": 624263971,
+                "unsigned": true
+            },
+            "equip": {
+                "weapon": {
+                    "level": 1,
+                    "affixMap": {
+                        "113303": 0
+                    }
+                }
+            }
+        },
+        {
+            "itemId": 13303,
+            "guid": {
+                "low": 189,
+                "high": 624263971,
+                "unsigned": true
+            },
+            "equip": {
+                "weapon": {
+                    "level": 1,
+                    "affixMap": {
+                        "113303": 0
+                    }
+                }
+            }
+        },
+        {
+            "itemId": 12305,
+            "guid": {
+                "low": 191,
+                "high": 624263971,
+                "unsigned": true
+            },
+            "equip": {
+                "weapon": {
+                    "level": 1,
+                    "affixMap": {
+                        "112305": 0
+                    }
+                }
+            }
+        },
+        {
+            "itemId": 15401,
+            "guid": {
+                "low": 193,
+                "high": 624263971,
+                "unsigned": true
+            },
+            "equip": {
+                "weapon": {
+                    "level": 1,
+                    "affixMap": {
+                        "115401": 0
+                    }
+                },
+                "isLocked": true
+            }
+        },
+        {
+            "itemId": 221,
+            "guid": {
+                "low": 194,
+                "high": 624263971,
+                "unsigned": true
+            },
+            "material": {
+                "count": 2
+            }
+        },
+        {
+            "itemId": 12302,
+            "guid": {
+                "low": 196,
+                "high": 624263971,
+                "unsigned": true
+            },
+            "equip": {
+                "weapon": {
+                    "level": 1,
+                    "affixMap": {
+                        "112302": 0
+                    }
+                }
+            }
+        },
+        {
+            "itemId": 13303,
+            "guid": {
+                "low": 198,
+                "high": 624263971,
+                "unsigned": true
+            },
+            "equip": {
+                "weapon": {
+                    "level": 1,
+                    "affixMap": {
+                        "113303": 0
+                    }
+                }
+            }
+        },
+        {
+            "itemId": 112005,
+            "guid": {
+                "low": 318,
+                "high": 624263971,
+                "unsigned": true
+            },
+            "material": {
+                "count": 1
+            }
+        },
+        {
+            "itemId": 112011,
+            "guid": {
+                "low": 349,
+                "high": 624263971,
+                "unsigned": true
+            },
+            "material": {
+                "count": 1
+            }
+        },
+        {
+            "itemId": 100062,
+            "guid": {
+                "low": 362,
+                "high": 624263971,
+                "unsigned": true
+            },
+            "material": {
+                "count": 1
+            }
+        },
+        {
+            "itemId": 12301,
+            "guid": {
+                "low": 368,
+                "high": 624263971,
+                "unsigned": true
+            },
+            "equip": {
+                "weapon": {
+                    "level": 1,
+                    "affixMap": {
+                        "112301": 0
+                    }
+                }
+            }
+        },
+        {
+            "itemId": 13303,
+            "guid": {
+                "low": 370,
+                "high": 624263971,
+                "unsigned": true
+            },
+            "equip": {
+                "weapon": {
+                    "level": 1,
+                    "affixMap": {
+                        "113303": 0
+                    }
+                }
+            }
+        },
+        {
+            "itemId": 14301,
+            "guid": {
+                "low": 372,
+                "high": 624263971,
+                "unsigned": true
+            },
+            "equip": {
+                "weapon": {
+                    "level": 1,
+                    "affixMap": {
+                        "114301": 0
+                    }
+                }
+            }
+        },
+        {
+            "itemId": 14304,
+            "guid": {
+                "low": 374,
+                "high": 624263971,
+                "unsigned": true
+            },
+            "equip": {
+                "weapon": {
+                    "level": 1,
+                    "affixMap": {
+                        "114304": 0
+                    }
+                }
+            }
+        },
+        {
+            "itemId": 12305,
+            "guid": {
+                "low": 377,
+                "high": 624263971,
+                "unsigned": true
+            },
+            "equip": {
+                "weapon": {
+                    "level": 1,
+                    "affixMap": {
+                        "112305": 0
+                    }
+                }
+            }
+        },
+        {
+            "itemId": 108058,
+            "guid": {
+                "low": 381,
+                "high": 624263971,
+                "unsigned": true
+            },
+            "material": {
+                "count": 1
+            }
+        },
+        {
+            "itemId": 108151,
+            "guid": {
+                "low": 382,
+                "high": 624263971,
+                "unsigned": true
+            },
+            "material": {
+                "count": 5
+            }
+        },
+        {
+            "itemId": 100083,
+            "guid": {
+                "low": 385,
+                "high": 624263971,
+                "unsigned": true
+            },
+            "material": {
+                "count": 1
+            }
+        },
+        {
+            "itemId": 101303,
+            "guid": {
+                "low": 386,
+                "high": 624263971,
+                "unsigned": true
+            },
+            "material": {
+                "count": 4
+            }
+        },
+        {
+            "itemId": 11301,
+            "guid": {
+                "low": 391,
+                "high": 624263971,
+                "unsigned": true
+            },
+            "equip": {
+                "weapon": {
+                    "level": 1,
+                    "affixMap": {
+                        "111301": 0
+                    }
+                }
+            }
+        },
+        {
+            "itemId": 14101,
+            "guid": {
+                "low": 395,
+                "high": 624263971,
+                "unsigned": true
+            },
+            "equip": {
+                "weapon": {
+                    "level": 1
+                }
+            }
+        }
+    ],
+    "weightLimit": 30000
+}

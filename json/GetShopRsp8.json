@@ -1,0 +1,1250 @@
+{
+    "shop": {
+        "shopType": 1001,
+        "goodsList": [
+            {
+                "goodsId": 102001,
+                "goodsItem": {
+                    "itemId": 223,
+                    "count": 1
+                },
+                "hcoin": 160,
+                "beginTime": 1575176400,
+                "endTime": 2051240400,
+                "nextRefreshTime": 1627808400,
+                "minLevel": 4,
+                "maxLevel": 99
+            },
+            {
+                "goodsId": 102002,
+                "goodsItem": {
+                    "itemId": 224,
+                    "count": 1
+                },
+                "hcoin": 160,
+                "beginTime": 1575176400,
+                "endTime": 2051240400,
+                "nextRefreshTime": 1627808400,
+                "minLevel": 4,
+                "maxLevel": 99
+            },
+            {
+                "goodsId": 102528,
+                "goodsItem": {
+                    "itemId": 112002,
+                    "count": 3
+                },
+                "costItemList": [
+                    {
+                        "itemId": 222,
+                        "count": 5
+                    }
+                ],
+                "buyLimit": 15,
+                "beginTime": 1575176400,
+                "endTime": 2051240400,
+                "nextRefreshTime": 1627808400,
+                "minLevel": 10,
+                "maxLevel": 99
+            },
+            {
+                "goodsId": 102529,
+                "goodsItem": {
+                    "itemId": 112005,
+                    "count": 3
+                },
+                "costItemList": [
+                    {
+                        "itemId": 222,
+                        "count": 5
+                    }
+                ],
+                "buyLimit": 15,
+                "beginTime": 1575176400,
+                "endTime": 2051240400,
+                "nextRefreshTime": 1627808400,
+                "minLevel": 10,
+                "maxLevel": 99
+            },
+            {
+                "goodsId": 102530,
+                "goodsItem": {
+                    "itemId": 112008,
+                    "count": 3
+                },
+                "costItemList": [
+                    {
+                        "itemId": 222,
+                        "count": 5
+                    }
+                ],
+                "buyLimit": 15,
+                "beginTime": 1575176400,
+                "endTime": 2051240400,
+                "nextRefreshTime": 1627808400,
+                "minLevel": 10,
+                "maxLevel": 99
+            },
+            {
+                "goodsId": 102531,
+                "goodsItem": {
+                    "itemId": 112011,
+                    "count": 3
+                },
+                "costItemList": [
+                    {
+                        "itemId": 222,
+                        "count": 5
+                    }
+                ],
+                "buyLimit": 15,
+                "beginTime": 1575176400,
+                "endTime": 2051240400,
+                "nextRefreshTime": 1627808400,
+                "minLevel": 10,
+                "maxLevel": 99
+            },
+            {
+                "goodsId": 102532,
+                "goodsItem": {
+                    "itemId": 112032,
+                    "count": 3
+                },
+                "costItemList": [
+                    {
+                        "itemId": 222,
+                        "count": 5
+                    }
+                ],
+                "buyLimit": 15,
+                "beginTime": 1575176400,
+                "endTime": 2051240400,
+                "nextRefreshTime": 1627808400,
+                "minLevel": 10,
+                "maxLevel": 99
+            },
+            {
+                "goodsId": 102533,
+                "goodsItem": {
+                    "itemId": 112035,
+                    "count": 3
+                },
+                "costItemList": [
+                    {
+                        "itemId": 222,
+                        "count": 5
+                    }
+                ],
+                "buyLimit": 15,
+                "beginTime": 1575176400,
+                "endTime": 2051240400,
+                "nextRefreshTime": 1627808400,
+                "minLevel": 10,
+                "maxLevel": 99
+            },
+            {
+                "goodsId": 102534,
+                "goodsItem": {
+                    "itemId": 112038,
+                    "count": 3
+                },
+                "costItemList": [
+                    {
+                        "itemId": 222,
+                        "count": 5
+                    }
+                ],
+                "buyLimit": 15,
+                "beginTime": 1575176400,
+                "endTime": 2051240400,
+                "nextRefreshTime": 1627808400,
+                "minLevel": 10,
+                "maxLevel": 99
+            },
+            {
+                "goodsId": 102537,
+                "goodsItem": {
+                    "itemId": 112044,
+                    "count": 3
+                },
+                "costItemList": [
+                    {
+                        "itemId": 222,
+                        "count": 5
+                    }
+                ],
+                "buyLimit": 15,
+                "beginTime": 1575176400,
+                "endTime": 2051240400,
+                "nextRefreshTime": 1627808400,
+                "minLevel": 10,
+                "maxLevel": 99
+            },
+            {
+                "goodsId": 102020,
+                "goodsItem": {
+                    "itemId": 112004,
+                    "count": 3
+                },
+                "costItemList": [
+                    {
+                        "itemId": 221,
+                        "count": 2
+                    }
+                ],
+                "buyLimit": 25,
+                "beginTime": 1575176400,
+                "endTime": 2051240400,
+                "nextRefreshTime": 1627808400,
+                "minLevel": 35,
+                "maxLevel": 99
+            },
+            {
+                "goodsId": 102021,
+                "goodsItem": {
+                    "itemId": 112007,
+                    "count": 3
+                },
+                "costItemList": [
+                    {
+                        "itemId": 221,
+                        "count": 2
+                    }
+                ],
+                "buyLimit": 25,
+                "beginTime": 1575176400,
+                "endTime": 2051240400,
+                "nextRefreshTime": 1627808400,
+                "minLevel": 35,
+                "maxLevel": 99
+            },
+            {
+                "goodsId": 102022,
+                "goodsItem": {
+                    "itemId": 112010,
+                    "count": 3
+                },
+                "costItemList": [
+                    {
+                        "itemId": 221,
+                        "count": 2
+                    }
+                ],
+                "buyLimit": 25,
+                "beginTime": 1575176400,
+                "endTime": 2051240400,
+                "nextRefreshTime": 1627808400,
+                "minLevel": 35,
+                "maxLevel": 99
+            },
+            {
+                "goodsId": 102023,
+                "goodsItem": {
+                    "itemId": 112013,
+                    "count": 3
+                },
+                "costItemList": [
+                    {
+                        "itemId": 221,
+                        "count": 2
+                    }
+                ],
+                "buyLimit": 25,
+                "beginTime": 1575176400,
+                "endTime": 2051240400,
+                "nextRefreshTime": 1627808400,
+                "minLevel": 35,
+                "maxLevel": 99
+            },
+            {
+                "goodsId": 102024,
+                "goodsItem": {
+                    "itemId": 112034,
+                    "count": 3
+                },
+                "costItemList": [
+                    {
+                        "itemId": 221,
+                        "count": 2
+                    }
+                ],
+                "buyLimit": 25,
+                "beginTime": 1575176400,
+                "endTime": 2051240400,
+                "nextRefreshTime": 1627808400,
+                "minLevel": 35,
+                "maxLevel": 99
+            },
+            {
+                "goodsId": 102025,
+                "goodsItem": {
+                    "itemId": 112037,
+                    "count": 3
+                },
+                "costItemList": [
+                    {
+                        "itemId": 221,
+                        "count": 2
+                    }
+                ],
+                "buyLimit": 25,
+                "beginTime": 1575176400,
+                "endTime": 2051240400,
+                "nextRefreshTime": 1627808400,
+                "minLevel": 35,
+                "maxLevel": 99
+            },
+            {
+                "goodsId": 102026,
+                "goodsItem": {
+                    "itemId": 112040,
+                    "count": 3
+                },
+                "costItemList": [
+                    {
+                        "itemId": 221,
+                        "count": 2
+                    }
+                ],
+                "buyLimit": 25,
+                "beginTime": 1575176400,
+                "endTime": 2051240400,
+                "nextRefreshTime": 1627808400,
+                "minLevel": 35,
+                "maxLevel": 99
+            },
+            {
+                "goodsId": 102034,
+                "goodsItem": {
+                    "itemId": 112046,
+                    "count": 3
+                },
+                "costItemList": [
+                    {
+                        "itemId": 221,
+                        "count": 2
+                    }
+                ],
+                "buyLimit": 25,
+                "beginTime": 1575176400,
+                "endTime": 2051240400,
+                "nextRefreshTime": 1627808400,
+                "minLevel": 35,
+                "maxLevel": 99
+            },
+            {
+                "goodsId": 102521,
+                "goodsItem": {
+                    "itemId": 112014,
+                    "count": 1
+                },
+                "costItemList": [
+                    {
+                        "itemId": 222,
+                        "count": 5
+                    }
+                ],
+                "buyLimit": 16,
+                "beginTime": 1575176400,
+                "endTime": 2051240400,
+                "nextRefreshTime": 1627808400,
+                "minLevel": 10,
+                "maxLevel": 99
+            },
+            {
+                "goodsId": 102523,
+                "goodsItem": {
+                    "itemId": 112020,
+                    "count": 1
+                },
+                "costItemList": [
+                    {
+                        "itemId": 222,
+                        "count": 5
+                    }
+                ],
+                "buyLimit": 16,
+                "beginTime": 1575176400,
+                "endTime": 2051240400,
+                "nextRefreshTime": 1627808400,
+                "minLevel": 10,
+                "maxLevel": 99
+            },
+            {
+                "goodsId": 102524,
+                "goodsItem": {
+                    "itemId": 112023,
+                    "count": 1
+                },
+                "costItemList": [
+                    {
+                        "itemId": 222,
+                        "count": 5
+                    }
+                ],
+                "buyLimit": 16,
+                "beginTime": 1575176400,
+                "endTime": 2051240400,
+                "nextRefreshTime": 1627808400,
+                "minLevel": 10,
+                "maxLevel": 99
+            },
+            {
+                "goodsId": 102525,
+                "goodsItem": {
+                    "itemId": 112026,
+                    "count": 1
+                },
+                "costItemList": [
+                    {
+                        "itemId": 222,
+                        "count": 5
+                    }
+                ],
+                "buyLimit": 16,
+                "beginTime": 1575176400,
+                "endTime": 2051240400,
+                "nextRefreshTime": 1627808400,
+                "minLevel": 10,
+                "maxLevel": 99
+            },
+            {
+                "goodsId": 102526,
+                "goodsItem": {
+                    "itemId": 112029,
+                    "count": 1
+                },
+                "costItemList": [
+                    {
+                        "itemId": 222,
+                        "count": 5
+                    }
+                ],
+                "buyLimit": 16,
+                "beginTime": 1575176400,
+                "endTime": 2051240400,
+                "nextRefreshTime": 1627808400,
+                "minLevel": 10,
+                "maxLevel": 99
+            },
+            {
+                "goodsId": 102527,
+                "goodsItem": {
+                    "itemId": 112041,
+                    "count": 1
+                },
+                "costItemList": [
+                    {
+                        "itemId": 222,
+                        "count": 5
+                    }
+                ],
+                "buyLimit": 16,
+                "beginTime": 1575176400,
+                "endTime": 2051240400,
+                "nextRefreshTime": 1627808400,
+                "minLevel": 10,
+                "maxLevel": 99
+            },
+            {
+                "goodsId": 102539,
+                "goodsItem": {
+                    "itemId": 112047,
+                    "count": 1
+                },
+                "costItemList": [
+                    {
+                        "itemId": 222,
+                        "count": 5
+                    }
+                ],
+                "buyLimit": 16,
+                "beginTime": 1575176400,
+                "endTime": 2051240400,
+                "nextRefreshTime": 1627808400,
+                "minLevel": 10,
+                "maxLevel": 99
+            },
+            {
+                "goodsId": 102541,
+                "goodsItem": {
+                    "itemId": 112050,
+                    "count": 1
+                },
+                "costItemList": [
+                    {
+                        "itemId": 222,
+                        "count": 5
+                    }
+                ],
+                "buyLimit": 16,
+                "beginTime": 1575176400,
+                "endTime": 2051240400,
+                "nextRefreshTime": 1627808400,
+                "minLevel": 10,
+                "maxLevel": 99
+            },
+            {
+                "goodsId": 102013,
+                "goodsItem": {
+                    "itemId": 112016,
+                    "count": 1
+                },
+                "costItemList": [
+                    {
+                        "itemId": 221,
+                        "count": 2
+                    }
+                ],
+                "buyLimit": 8,
+                "beginTime": 1575176400,
+                "endTime": 2051240400,
+                "nextRefreshTime": 1627808400,
+                "minLevel": 35,
+                "maxLevel": 99
+            },
+            {
+                "goodsId": 102015,
+                "goodsItem": {
+                    "itemId": 112022,
+                    "count": 1
+                },
+                "costItemList": [
+                    {
+                        "itemId": 221,
+                        "count": 2
+                    }
+                ],
+                "buyLimit": 8,
+                "beginTime": 1575176400,
+                "endTime": 2051240400,
+                "nextRefreshTime": 1627808400,
+                "minLevel": 35,
+                "maxLevel": 99
+            },
+            {
+                "goodsId": 102016,
+                "goodsItem": {
+                    "itemId": 112025,
+                    "count": 1
+                },
+                "costItemList": [
+                    {
+                        "itemId": 221,
+                        "count": 2
+                    }
+                ],
+                "buyLimit": 8,
+                "beginTime": 1575176400,
+                "endTime": 2051240400,
+                "nextRefreshTime": 1627808400,
+                "minLevel": 35,
+                "maxLevel": 99
+            },
+            {
+                "goodsId": 102017,
+                "goodsItem": {
+                    "itemId": 112028,
+                    "count": 1
+                },
+                "costItemList": [
+                    {
+                        "itemId": 221,
+                        "count": 2
+                    }
+                ],
+                "buyLimit": 8,
+                "beginTime": 1575176400,
+                "endTime": 2051240400,
+                "nextRefreshTime": 1627808400,
+                "minLevel": 35,
+                "maxLevel": 99
+            },
+            {
+                "goodsId": 102018,
+                "goodsItem": {
+                    "itemId": 112031,
+                    "count": 1
+                },
+                "costItemList": [
+                    {
+                        "itemId": 221,
+                        "count": 2
+                    }
+                ],
+                "buyLimit": 8,
+                "beginTime": 1575176400,
+                "endTime": 2051240400,
+                "nextRefreshTime": 1627808400,
+                "minLevel": 35,
+                "maxLevel": 99
+            },
+            {
+                "goodsId": 102019,
+                "goodsItem": {
+                    "itemId": 112043,
+                    "count": 1
+                },
+                "costItemList": [
+                    {
+                        "itemId": 221,
+                        "count": 2
+                    }
+                ],
+                "buyLimit": 8,
+                "beginTime": 1575176400,
+                "endTime": 2051240400,
+                "nextRefreshTime": 1627808400,
+                "minLevel": 35,
+                "maxLevel": 99
+            },
+            {
+                "goodsId": 102035,
+                "goodsItem": {
+                    "itemId": 112049,
+                    "count": 1
+                },
+                "costItemList": [
+                    {
+                        "itemId": 221,
+                        "count": 2
+                    }
+                ],
+                "buyLimit": 8,
+                "beginTime": 1575176400,
+                "endTime": 2051240400,
+                "nextRefreshTime": 1627808400,
+                "minLevel": 35,
+                "maxLevel": 99
+            },
+            {
+                "goodsId": 102036,
+                "goodsItem": {
+                    "itemId": 112052,
+                    "count": 1
+                },
+                "costItemList": [
+                    {
+                        "itemId": 221,
+                        "count": 2
+                    }
+                ],
+                "buyLimit": 8,
+                "beginTime": 1575176400,
+                "endTime": 2051240400,
+                "nextRefreshTime": 1627808400,
+                "minLevel": 35,
+                "maxLevel": 99
+            },
+            {
+                "goodsId": 102514,
+                "goodsItem": {
+                    "itemId": 112003,
+                    "count": 1
+                },
+                "costItemList": [
+                    {
+                        "itemId": 222,
+                        "count": 5
+                    }
+                ],
+                "buyLimit": 35,
+                "beginTime": 1575176400,
+                "endTime": 2051240400,
+                "nextRefreshTime": 1627808400,
+                "minLevel": 10,
+                "maxLevel": 99
+            },
+            {
+                "goodsId": 102515,
+                "goodsItem": {
+                    "itemId": 112006,
+                    "count": 1
+                },
+                "costItemList": [
+                    {
+                        "itemId": 222,
+                        "count": 5
+                    }
+                ],
+                "buyLimit": 35,
+                "beginTime": 1575176400,
+                "endTime": 2051240400,
+                "nextRefreshTime": 1627808400,
+                "minLevel": 10,
+                "maxLevel": 99
+            },
+            {
+                "goodsId": 102516,
+                "goodsItem": {
+                    "itemId": 112009,
+                    "count": 1
+                },
+                "costItemList": [
+                    {
+                        "itemId": 222,
+                        "count": 5
+                    }
+                ],
+                "buyLimit": 35,
+                "beginTime": 1575176400,
+                "endTime": 2051240400,
+                "nextRefreshTime": 1627808400,
+                "minLevel": 10,
+                "maxLevel": 99
+            },
+            {
+                "goodsId": 102517,
+                "goodsItem": {
+                    "itemId": 112012,
+                    "count": 1
+                },
+                "costItemList": [
+                    {
+                        "itemId": 222,
+                        "count": 5
+                    }
+                ],
+                "buyLimit": 35,
+                "beginTime": 1575176400,
+                "endTime": 2051240400,
+                "nextRefreshTime": 1627808400,
+                "minLevel": 10,
+                "maxLevel": 99
+            },
+            {
+                "goodsId": 102518,
+                "goodsItem": {
+                    "itemId": 112033,
+                    "count": 1
+                },
+                "costItemList": [
+                    {
+                        "itemId": 222,
+                        "count": 5
+                    }
+                ],
+                "buyLimit": 35,
+                "beginTime": 1575176400,
+                "endTime": 2051240400,
+                "nextRefreshTime": 1627808400,
+                "minLevel": 10,
+                "maxLevel": 99
+            },
+            {
+                "goodsId": 102519,
+                "goodsItem": {
+                    "itemId": 112036,
+                    "count": 1
+                },
+                "costItemList": [
+                    {
+                        "itemId": 222,
+                        "count": 5
+                    }
+                ],
+                "buyLimit": 35,
+                "beginTime": 1575176400,
+                "endTime": 2051240400,
+                "nextRefreshTime": 1627808400,
+                "minLevel": 10,
+                "maxLevel": 99
+            },
+            {
+                "goodsId": 102520,
+                "goodsItem": {
+                    "itemId": 112039,
+                    "count": 1
+                },
+                "costItemList": [
+                    {
+                        "itemId": 222,
+                        "count": 5
+                    }
+                ],
+                "buyLimit": 35,
+                "beginTime": 1575176400,
+                "endTime": 2051240400,
+                "nextRefreshTime": 1627808400,
+                "minLevel": 10,
+                "maxLevel": 99
+            },
+            {
+                "goodsId": 102538,
+                "goodsItem": {
+                    "itemId": 112045,
+                    "count": 1
+                },
+                "costItemList": [
+                    {
+                        "itemId": 222,
+                        "count": 5
+                    }
+                ],
+                "buyLimit": 35,
+                "beginTime": 1575176400,
+                "endTime": 2051240400,
+                "nextRefreshTime": 1627808400,
+                "minLevel": 10,
+                "maxLevel": 99
+            },
+            {
+                "goodsId": 102535,
+                "goodsItem": {
+                    "itemId": 104201,
+                    "count": 10
+                },
+                "costItemList": [
+                    {
+                        "itemId": 222,
+                        "count": 5
+                    }
+                ],
+                "buyLimit": 100,
+                "beginTime": 1575176400,
+                "endTime": 2051240400,
+                "nextRefreshTime": 1627808400,
+                "minLevel": 10,
+                "maxLevel": 99
+            },
+            {
+                "goodsId": 102007,
+                "goodsItem": {
+                    "itemId": 11408,
+                    "count": 1
+                },
+                "costItemList": [
+                    {
+                        "itemId": 221,
+                        "count": 24
+                    }
+                ],
+                "buyLimit": 3,
+                "beginTime": 1601542801,
+                "endTime": 2051240400,
+                "nextRefreshTime": 1627808400,
+                "minLevel": 4,
+                "maxLevel": 99
+            },
+            {
+                "goodsId": 102008,
+                "goodsItem": {
+                    "itemId": 12408,
+                    "count": 1
+                },
+                "costItemList": [
+                    {
+                        "itemId": 221,
+                        "count": 24
+                    }
+                ],
+                "buyLimit": 3,
+                "beginTime": 1601542801,
+                "endTime": 2051240400,
+                "nextRefreshTime": 1627808400,
+                "minLevel": 4,
+                "maxLevel": 99
+            },
+            {
+                "goodsId": 102009,
+                "goodsItem": {
+                    "itemId": 13404,
+                    "count": 1
+                },
+                "costItemList": [
+                    {
+                        "itemId": 221,
+                        "count": 24
+                    }
+                ],
+                "buyLimit": 3,
+                "beginTime": 1601542801,
+                "endTime": 2051240400,
+                "nextRefreshTime": 1627808400,
+                "minLevel": 4,
+                "maxLevel": 99
+            },
+            {
+                "goodsId": 102010,
+                "goodsItem": {
+                    "itemId": 14408,
+                    "count": 1
+                },
+                "costItemList": [
+                    {
+                        "itemId": 221,
+                        "count": 24
+                    }
+                ],
+                "buyLimit": 3,
+                "beginTime": 1601542801,
+                "endTime": 2051240400,
+                "nextRefreshTime": 1627808400,
+                "minLevel": 4,
+                "maxLevel": 99
+            },
+            {
+                "goodsId": 102011,
+                "goodsItem": {
+                    "itemId": 15408,
+                    "count": 1
+                },
+                "costItemList": [
+                    {
+                        "itemId": 221,
+                        "count": 24
+                    }
+                ],
+                "buyLimit": 3,
+                "beginTime": 1601542801,
+                "endTime": 2051240400,
+                "nextRefreshTime": 1627808400,
+                "minLevel": 4,
+                "maxLevel": 99
+            },
+            {
+                "goodsId": 102507,
+                "goodsItem": {
+                    "itemId": 112015,
+                    "count": 1
+                },
+                "costItemList": [
+                    {
+                        "itemId": 222,
+                        "count": 15
+                    }
+                ],
+                "buyLimit": 12,
+                "beginTime": 1575176400,
+                "endTime": 2051240400,
+                "nextRefreshTime": 1627808400,
+                "minLevel": 25,
+                "maxLevel": 99
+            },
+            {
+                "goodsId": 102509,
+                "goodsItem": {
+                    "itemId": 112021,
+                    "count": 1
+                },
+                "costItemList": [
+                    {
+                        "itemId": 222,
+                        "count": 15
+                    }
+                ],
+                "buyLimit": 12,
+                "beginTime": 1575176400,
+                "endTime": 2051240400,
+                "nextRefreshTime": 1627808400,
+                "minLevel": 25,
+                "maxLevel": 99
+            },
+            {
+                "goodsId": 102510,
+                "goodsItem": {
+                    "itemId": 112024,
+                    "count": 1
+                },
+                "costItemList": [
+                    {
+                        "itemId": 222,
+                        "count": 15
+                    }
+                ],
+                "buyLimit": 12,
+                "beginTime": 1575176400,
+                "endTime": 2051240400,
+                "nextRefreshTime": 1627808400,
+                "minLevel": 25,
+                "maxLevel": 99
+            },
+            {
+                "goodsId": 102511,
+                "goodsItem": {
+                    "itemId": 112027,
+                    "count": 1
+                },
+                "costItemList": [
+                    {
+                        "itemId": 222,
+                        "count": 15
+                    }
+                ],
+                "buyLimit": 12,
+                "beginTime": 1575176400,
+                "endTime": 2051240400,
+                "nextRefreshTime": 1627808400,
+                "minLevel": 25,
+                "maxLevel": 99
+            },
+            {
+                "goodsId": 102512,
+                "goodsItem": {
+                    "itemId": 112030,
+                    "count": 1
+                },
+                "costItemList": [
+                    {
+                        "itemId": 222,
+                        "count": 15
+                    }
+                ],
+                "buyLimit": 12,
+                "beginTime": 1575176400,
+                "endTime": 2051240400,
+                "nextRefreshTime": 1627808400,
+                "minLevel": 25,
+                "maxLevel": 99
+            },
+            {
+                "goodsId": 102513,
+                "goodsItem": {
+                    "itemId": 112042,
+                    "count": 1
+                },
+                "costItemList": [
+                    {
+                        "itemId": 222,
+                        "count": 15
+                    }
+                ],
+                "buyLimit": 12,
+                "beginTime": 1575176400,
+                "endTime": 2051240400,
+                "nextRefreshTime": 1627808400,
+                "minLevel": 25,
+                "maxLevel": 99
+            },
+            {
+                "goodsId": 102540,
+                "goodsItem": {
+                    "itemId": 112048,
+                    "count": 1
+                },
+                "costItemList": [
+                    {
+                        "itemId": 222,
+                        "count": 15
+                    }
+                ],
+                "buyLimit": 12,
+                "beginTime": 1575176400,
+                "endTime": 2051240400,
+                "nextRefreshTime": 1627808400,
+                "minLevel": 10,
+                "maxLevel": 99
+            },
+            {
+                "goodsId": 102542,
+                "goodsItem": {
+                    "itemId": 112051,
+                    "count": 1
+                },
+                "costItemList": [
+                    {
+                        "itemId": 222,
+                        "count": 15
+                    }
+                ],
+                "buyLimit": 12,
+                "beginTime": 1575176400,
+                "endTime": 2051240400,
+                "nextRefreshTime": 1627808400,
+                "minLevel": 10,
+                "maxLevel": 99
+            },
+            {
+                "goodsId": 102005,
+                "goodsItem": {
+                    "itemId": 1031,
+                    "count": 1
+                },
+                "costItemList": [
+                    {
+                        "itemId": 221,
+                        "count": 34
+                    }
+                ],
+                "buyLimit": 1,
+                "beginTime": 1601542801,
+                "endTime": 2051240400,
+                "nextRefreshTime": 1627808400,
+                "minLevel": 4,
+                "maxLevel": 99
+            },
+            {
+                "goodsId": 102006,
+                "goodsItem": {
+                    "itemId": 1023,
+                    "count": 1
+                },
+                "costItemList": [
+                    {
+                        "itemId": 221,
+                        "count": 34
+                    }
+                ],
+                "buyLimit": 1,
+                "beginTime": 1601542801,
+                "endTime": 2051240400,
+                "nextRefreshTime": 1627808400,
+                "minLevel": 4,
+                "maxLevel": 99
+            },
+            {
+                "goodsId": 102503,
+                "goodsItem": {
+                    "itemId": 104002,
+                    "count": 3
+                },
+                "costItemList": [
+                    {
+                        "itemId": 222,
+                        "count": 8
+                    }
+                ],
+                "buyLimit": 100,
+                "beginTime": 1575176400,
+                "endTime": 2051240400,
+                "nextRefreshTime": 1627808400,
+                "minLevel": 10,
+                "maxLevel": 99
+            },
+            {
+                "goodsId": 102504,
+                "goodsItem": {
+                    "itemId": 104013,
+                    "count": 1
+                },
+                "costItemList": [
+                    {
+                        "itemId": 222,
+                        "count": 5
+                    }
+                ],
+                "buyLimit": 60,
+                "beginTime": 1575176400,
+                "endTime": 2051240400,
+                "nextRefreshTime": 1627808400,
+                "minLevel": 10,
+                "maxLevel": 99
+            },
+            {
+                "goodsId": 102505,
+                "goodsItem": {
+                    "itemId": 202,
+                    "count": 10000
+                },
+                "costItemList": [
+                    {
+                        "itemId": 222,
+                        "count": 10
+                    }
+                ],
+                "buyLimit": 30,
+                "beginTime": 1575176400,
+                "endTime": 2051240400,
+                "nextRefreshTime": 1627808400,
+                "minLevel": 10,
+                "maxLevel": 99
+            },
+            {
+                "goodsId": 102506,
+                "goodsItem": {
+                    "itemId": 202,
+                    "count": 10000
+                },
+                "costItemList": [
+                    {
+                        "itemId": 222,
+                        "count": 20
+                    }
+                ],
+                "beginTime": 1575176400,
+                "endTime": 2051240400,
+                "nextRefreshTime": 1627808400,
+                "minLevel": 10,
+                "maxLevel": 99,
+                "preGoodsIdList": [
+                    102505
+                ]
+            },
+            {
+                "goodsId": 102003,
+                "goodsItem": {
+                    "itemId": 223,
+                    "count": 1
+                },
+                "costItemList": [
+                    {
+                        "itemId": 221,
+                        "count": 5
+                    }
+                ],
+                "beginTime": 1575176400,
+                "endTime": 2051240400,
+                "nextRefreshTime": 1627808400,
+                "minLevel": 4,
+                "maxLevel": 99
+            },
+            {
+                "goodsId": 102004,
+                "goodsItem": {
+                    "itemId": 224,
+                    "count": 1
+                },
+                "costItemList": [
+                    {
+                        "itemId": 221,
+                        "count": 5
+                    }
+                ],
+                "beginTime": 1575176400,
+                "endTime": 2051240400,
+                "nextRefreshTime": 1627808400,
+                "minLevel": 4,
+                "maxLevel": 99
+            },
+            {
+                "goodsId": 102501,
+                "goodsItem": {
+                    "itemId": 223,
+                    "count": 1
+                },
+                "costItemList": [
+                    {
+                        "itemId": 222,
+                        "count": 75
+                    }
+                ],
+                "buyLimit": 5,
+                "beginTime": 1575176400,
+                "endTime": 2051240400,
+                "nextRefreshTime": 1627808400,
+                "minLevel": 4,
+                "maxLevel": 99
+            },
+            {
+                "goodsId": 102502,
+                "goodsItem": {
+                    "itemId": 224,
+                    "count": 1
+                },
+                "costItemList": [
+                    {
+                        "itemId": 222,
+                        "count": 75
+                    }
+                ],
+                "buyLimit": 5,
+                "beginTime": 1575176400,
+                "endTime": 2051240400,
+                "nextRefreshTime": 1627808400,
+                "minLevel": 4,
+                "maxLevel": 99
+            }
+        ],
+        "nextRefreshTime": 1627808400
+    }
+}
